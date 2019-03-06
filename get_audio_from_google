@@ -7,6 +7,11 @@ else
     GREP='^\./.*|'
 fi
 
+#create directories
+for dir in core/digits core/dictate core/phonetic core/followme core/letters extra/wx extra/ha; do
+    mkdir -p $dir
+done
+
 SAVEIFS=$IFS
 IFS=$(echo -en "\n\b")
 for row in $(grep $GREP text)
