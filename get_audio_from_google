@@ -22,7 +22,7 @@ do
     if [[ ! -d $PACKAGE ]]; then
         mkdir $PACKAGE
     fi
-    curl 'https://texttospeech.googleapis.com/v1/text:synthesize?key=AIzaSyC3IL_4btExuBXw6yRtDxNMnoCUn_PJvkM' -H 'Content-Type:application/json' --data '{"input":{"text":"'$(echo $TEXT | sed "s/\([;\"']\)/\\\\\1/g" )'"}, "voice": {"languageCode":"it-IT", "name":"it-IT-Wavenet-A", "ssmlGender":"FEMALE"}, "audioConfig": {"audioEncoding":"LINEAR16"} }' | jq -r '.audioContent' | base64 --decode > $PACKAGE/$FILENAME 
+    curl 'https://texttospeech.googleapis.com/v1/text:synthesize?key=AIzaSyC3IL_4btExuBXw6yRtDxNMnoCUn_PJvkM' -H 'Content-Type:application/json' --data '{"input":{"text":"'$(echo $TEXT | sed "s/\([;\"']\)/\\\\\1/g" )'"}, "voice": {"languageCode":"it-IT", "name":"it-IT-Wavenet-A", "ssmlGender":"FEMALE"}, "audioConfig": {"audioEncoding":"LINEAR16"} }' | jq -r '.audioContent' | base64 --decode > $PACKAGE/$FILENAME.sln16 
 
     echo -e "$PACKAGE $FILENAME\t$TEXT"
 
