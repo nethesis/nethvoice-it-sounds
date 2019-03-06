@@ -1,5 +1,11 @@
 #!/bin/bash
 
+if [[ -z $GOOGLE_API_KEY ]]; then
+    echo "configure google api key before. Launch: "
+    echo "export GOOGLE_API_KEY='your_google_api_key_here'"
+    exit 1
+fi
+
 if [[ ! -z $1 ]] ; then
     #extract only $1 file
     GREP='^\./'$1'|'
@@ -22,7 +28,7 @@ do
     if [[ ! -d $PACKAGE ]]; then
         mkdir $PACKAGE
     fi
-    curl 'https://texttospeech.googleapis.com/v1/text:synthesize?key=AIzaSyC3IL_4btExuBXw6yRtDxNMnoCUn_PJvkM' -H 'Content-Type:application/json' --data '{"input":{"text":"'$(echo $TEXT | sed "s/\([;\"']\)/\\\\\1/g" )'"}, "voice": {"languageCode":"it-IT", "name":"it-IT-Wavenet-A", "ssmlGender":"FEMALE"}, "audioConfig": {"audioEncoding":"LINEAR16"} }' | jq -r '.audioContent' | base64 --decode > $PACKAGE/$FILENAME.sln16 
+    curl 'https://texttospeech.googleapis.com/v1/text:synthesize?key='$GOOGLE_API_KEY -H 'Content-Type:application/json' --data '{"input":{"text":"'$(echo $TEXT | sed "s/\([;\"']\)/\\\\\1/g" )'"}, "voice": {"languageCode":"it-IT", "name":"it-IT-Wavenet-A", "ssmlGender":"FEMALE"}, "audioConfig": {"audioEncoding":"LINEAR16"} }' | jq -r '.audioContent' | base64 --decode > $PACKAGE/$FILENAME.sln16
 
     echo -e "$PACKAGE $FILENAME\t$TEXT"
 
