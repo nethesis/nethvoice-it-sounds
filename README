@@ -11,5 +11,8 @@ dnf install -y jq
 # get all files
 ./get_audio_from_google
 
-#get one file
+# get one file
 ./get_audio_from_google filename
+
+# When you have all files, you can create the release .zip
+./create_zip

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for dir in core extra ; do
+    cd $dir
+    zip -r ../asterisk-sounds-$dir-$(cat .language)-$(cat .version-$dir).zip ./
+    cd ..
+done
