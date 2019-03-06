@@ -1,0 +1,1945 @@
+./1-for-am-2-for-pm|Digiti 1 per A.M.  o 2 per P.M.|      extra
+./1-yes-2-no|digiti 1 per Sì o 2 per no.|      extra
+./a-charge-for-this-svc|Un costo per questo servizio|      extra
+./a-collect-charge|Un costo a carico del destinatario|      extra
+./a-collect-charge-of|Un costo a carico del destinatario di|      extra
+./a-connect-charge|un costo alla risposta|      extra
+./a-connect-charge-of|Un costo alla risposta di|      extra
+./abandon-all-hope|Lasciate ogni speranza o voi che chiamate qui.|      extra
+./abandons|abbandona|      extra
+./academic-support|Supporto formativo|      extra
+./access-code|Codice di accesso|      extra
+./access-denied|accesso negato|      extra
+./access-granted|Accesso consentito|      extra
+./accessible-through-system|accessibili attraverso questo sistema|      extra
+./account-balance-is|Il saldo del conto è|      extra
+./accounting|Contabilità|      extra
+./accounts-payable|Contabilità fornitori|      extra
+./accounts-receivable|Contabilità clienti|      extra
+./account_number|Il suo numero del conto|      extra
+./activated|attivato|      core
+./added|aggiunto|      core
+./added-to|aggiunto a|      extra
+./address|indirizzo|      extra
+./administration|Amministrazione|      extra
+./advised-to-seek-shelter|si consiglia di cercare immediatamente un riparo|      extra
+./after-the-tone|dopo il segnale acustico|      extra
+./afternoon|pomeriggio|      extra
+./after_tone|dopo il segnale acustico|      extra
+./agent-alreadyon|Questo operatore è già connesso. Prego inserisca il suo numero di operatore seguito dal tasto cancelletto.|      core
+./agent-incorrect|Login errato. Prego inserisca il suo numero di operatore seguito dal tasto cancelletto.|      core
+./agent-loggedoff|Operatore disconnesso.|      core
+./agent-loginok|Operatore connesso.|      core
+./agent-newlocation|Digiti il nuovo interno seguito dal tasto cancelletto.|      core
+./agent-pass|Digiti la password seguita dal tasto cancelletto.|      core
+./agent-user|Accesso operatore. Inserisca il suo numero di operatore seguito dal tasto cancelletto.|      core
+./airport|aeroporto|      extra
+./alabama|Alabama|      extra
+./alaska|Alaska|      extra
+./albuquerque|Albuquerque|      extra
+./alert|avviso|      extra
+./conf-2-to-kick-nonadmin|Digiti 2 per eliminare tutti gli utenti non amministratori.|      extra
+./conf-3-mute-or-unmute-nonadmin|Digiti 3 per silenziare o ascoltare tutti gli utenti non amministratori.|      extra
+./conf-4-to-record-conf|Digiti 4 per registrare la conferenza.|      extra
+./conf-8-for-more-options|O digiti 8 per avere più opzioni.|      extra
+./conf-8-to-exit-return-to-conf|o digiti 8 per uscire da questo menu e tornare alla conferenza.|      extra
+./conf-adminmenu|Digiti 1 per disattivare o attivare il microfono, 2 per bloccare o sbloccare la conferenza, 3 per espellere l'ultimo utente entrato. 4 o 6 per diminuire o aumentare il volume della conferenza. 7 o 9 per diminuire o aumentare il vostro volume oppure 8 per uscire.|      core
+./conf-adminmenu-162|Digiti 1 per disattivare o attivare il microfono, 2 per bloccare o sbloccare la conferenza, 3 per espellere l'ultimo utente entrato. 4 o 6 per diminuire o aumentare il volume della conferenza. 5 per estendere la conferenza, 7 o 9 per diminuire o aumentare il vostro volume oppure 8 per uscire.|      core
+./conf-adminmenu-18|Digiti 1 per disattivare o attivare il microfono. Digiti 2 per bloccare o sbloccare la conferenza. Digiti 3 per espellere l'ultimo utente entrato. Digiti 4 o 6 per diminuire o aumentare il volume della conferenza. Digiti 5 per estendere la conferenza. Digiti 7 o 9 per diminuire o aumentare il vostro volume. Digiti 8 per più opzioni.|      core
+./conf-adminmenu-menu8|Digiti 1 per elencare gli utenti attualmente in conferenza. 2 per eliminare tutti gli utenti non amministratori. 3 per silenziare o ascoltare tutti gli utenti non amministratori. 4 per registrare la conferenza o digiti 8 per uscire da questo menu e tornare alla conferenza.|      core
+./conf-banned|Sei stato espulso da questa conferenza|      extra
+./conf-enteringno|State entrando nella conferenza numero|      core
+./conf-errormenu|Scelta non valida|      core
+./conf-extended|La conferenza è stata estesa.|      core
+./conf-full|Questa conferenza è piena.|      core
+./conf-getchannel|Digiti il numero del canale, seguito dal tasto cancelletto.|      core
+./conf-getconfno|Inserisca il suo numero di conferenza, seguito dal tasto cancelletto.|      core
+./conf-getpin|Digiti il PIN della conferenza.|      core
+./conf-hasentered|è entrato nella conferenza|      extra
+./conf-hasjoin|è ora nella conferenza.|      core
+./conf-hasleft|ha lasciato la conferenza.|      core
+./conf-invalid|Questo non è un numero di conferenza valido. Riprovare.|      core
+./conf-invalidpin|Questo PIN non è valido per questa conferenza.|      core
+./conf-kicked|Siete stato espulso da questa conferenza|      core
+./conf-leaderhasleft|Il leader ha lasciato la conferenza.|      core
+./conf-locked|Questa conferenza è bloccata!|      core
+./conf-lockednow|La conferenza è ora bloccata|      core
+./conf-muted|Microfono disattivato.|      core
+./conf-noempty|Attualmente non esistono conferenze vuote.|      core
+./conf-nonextended|La conferenza non può essere estesa.|      core
+./conf-now-muted|La conferenza è ora disattivata.|      core
+./conf-now-recording|La conferenza è ora in fase di registrazione.|      core
+./conf-now-unmuted|La conferenza è ora riattivata.|      core
+./conf-onlyone|Ora c'è un altro partecipante alla conferenza.|      core
+./conf-onlyperson|Lei è l'unica persona in questa conferenza.|      core
+./conf-onlypersonleft|Ora lei è l'unica persona rimasta in questa conferenza.|      extra
+./conf-otherinparty|altri partecipanti alla conferenza|      core
+./conf-peopleinconf|persone in questa conferenza|      extra
+./conf-placeintoconf|Ora verrà inserito nella conferenza.|      core
+./conf-roll-callcomplete|Roll Call completo.|      core
+./conf-sysop|L'operatore di sistema|      extra
+./conf-sysopreq|Operatore di sistema richiesto.|      extra
+./conf-sysopreqcancelled|Richiesta operatore di sistema annullata.|      extra
+./conf-thereare|Ci sono attualmente|      core
+./conf-unlockednow|La conferenza è ora sbloccata|      core
+./conf-unmuted|Microfono attivato|      core
+./conf-usermenu|Digiti 1 per disattivare o attivare il microfono, 4 o 6 per diminuire o aumentare il volume della conferenza, 7 o 9 per diminuire o aumentare il suo volume, oppure 8 per uscire.|      core
+./conf-usermenu-162|Digiti 1 per disattivare o attivare il microfono, 4 o 6 per diminuire o aumentare il volume della conferenza, 5 per estendere la conferenza, 7 o 9 per diminuire o aumentare il volume oppure 8 per uscire.|      core
+./conf-userswilljoin|gli utenti potranno partecipare alla conferenza.|      core
+./conf-userwilljoin|utente potrà partecipare alla conferenza.|      core
+./conf-waitforleader|La conferenza avrà inizio quando il leader arriva.|      core
+./conf-youareinconfnum|Lei è nella conferenza numero|      extra
+./confbridge-begin-glorious-a|La conferenza inizierà all'arrivo del nostro glorioso moderatore.|      core
+./confbridge-begin-glorious-b|La conferenza inizierà all'arrivo del nostro glorioso moderatore|      core
+./confbridge-begin-glorious-c|La conferenza inizierà all'arrivo del nostro glorioso moderatore.|      core
+./confbridge-begin-leader|La conferenza inizierà all'arrivo del moderatore.|      core
+./confbridge-conf-begin|La conferenza inizia ora.|      core
+./confbridge-conf-end|La conferenza è terminata.|      core
+./confbridge-dec-list-vol-in|Per ridurre il volume degli altri partecipanti...|      core
+./confbridge-dec-list-vol-out|per ridurre il volume degli altri partecipanti.|      core
+./confbridge-dec-talk-vol-in|Per ridurre il volume del suo microfono...|      core
+./confbridge-dec-talk-vol-out|per ridurre il volume della sua voce ascoltata dagli altri partecipanti|      core
+./confbridge-has-joined|si è unito alla conferenza.|      core
+./confbridge-has-left|ha lasciato la conferenza.|      core
+./confbridge-inc-list-vol-in|Per aumentare il volume degli altri partecipanti...|      core
+./confbridge-inc-list-vol-out|per aumentare il volume degli altri partecipanti.|      core
+./confbridge-inc-talk-vol-in|Per aumentare il volume del suo microfono...|      core
+./confbridge-inc-talk-vol-out|per aumentare il volume della sua voce, ascoltata dagli altri partecipanti...|      core
+./confbridge-invalid|L'opzione che ha inserito non è valida.|      core
+./confbridge-join| core
+./confbridge-leave| core
+./confbridge-leave-in|Per lasciare la conferenza...|      core
+./confbridge-leave-out|per lasciare la conferenza.|      core
+./confbridge-lock-extended|per bloccare, o sbloccare la conferenza. Quando una conferenza è bloccata solo i moderatori della conferenza possono entrare.|      core
+./confbridge-lock-in|Per bloccare, o sbloccare la conferenza...|      core
+./confbridge-lock-no-join|La conferenza è al momento bloccata e non è possibile accedervi.|      core
+./confbridge-lock-out|per bloccare o sbloccare la conferenza.|      core
+./confbridge-locked|La conferenza è ora bloccata.|      core
+./confbridge-menu-exit-in|Per uscire dal menu...|      core
+./confbridge-menu-exit-out|per uscire dal menu.|      core
+./confbridge-mute-extended|per disattivare o attivare il microfono. Quando il suo microfono viene disattivato, potrà solo ascoltare gli altri partecipanti della conferenza.|      core
+./confbridge-mute-in|Per disattivare o riattivare il microfono...|      core
+./confbridge-mute-out|per disattivare o riattivare il microfono.|      core
+./confbridge-muted|Il suo microfono è ora disattivato.|      core
+./confbridge-only-one|Attualmente, ci sono due partecipanti in questa conferenza.|      core
+./confbridge-only-participant|Attualmente è l'unico partecipante alla conferenza.|      core
+./confbridge-participants|partecipanti alla conferenza.|      core
+./confbridge-pin|La preghiamo di digitare il suo PIN, seguito dal tasto cancelletto.|      core
+./confbridge-pin-bad|Ha raggiunto il numero massimo di tentativi consentiti.|      core
+./confbridge-remove-last-in|Per rimuovere l'ultimo partecipante che si è unito alla conferenza...|      core
+./confbridge-remove-last-out|per rimuovere l'ultimo partecipante che si è unito alla conferenza.|      core
+./confbridge-removed|È stato rimosso dalla conferenza.|      core
+./confbridge-rest-list-vol-in|Per riportare il volume della conferenza al livello predefinito...|      core
+./confbridge-rest-list-vol-out|per riportare il volume della conferenza al livello predefinito.|      core
+./confbridge-rest-talk-vol-in|Per riportare il volume del microfono al livello predefinito...|      core
+./confbridge-rest-talk-vol-out|per riportare il volume del microfono al livello predefinito.|      core
+./confbridge-there-are|Ci sono attualmente...|      core
+./confbridge-unlocked|La conferenza è ora sbloccata.|      core
+./confbridge-unmuted|Il suo microfono ora è attivo.|      core
+./conference|Conferenza|      extra
+./conference-call|chiamata in conferenza|      extra
+./conference-reservations|Prenotazioni conferenza|      extra
+./confirm-number-is|Il vostro numero di conferma è|      extra
+./connected|Collegato|      extra
+./connecticut|Connecticut|      extra
+./connecting|Collegamento|      extra
+./connection-failed|Connessione non riuscita.|      extra
+./connection-timed-out|Connessione scaduta.|      extra
+./continue-english-press|Per continuare in inglese  digiti|      extra
+./continue-in-english|di continuare in inglese  ...|      extra
+./copy-center|Centro Copia|      extra
+./could-lose-a-few-pounds|si potrebbe perdere qualche chilo|      extra
+./counseling-services|Servizi di consulenza|      extra
+./count|conto|      extra
+./countdown|Grazie per aver chiamato. L'autodistruzione è stata avviata e avverrà in trenta secondi. Se lei crede di aver raggiunto questa destinazione per errore, si prega di digitare il codice di interruzione di dodici cifre ora o riagganciare e trovare immediatamente un riparo.|      extra
+./crash|bloccarsi|      extra
+./crashing_conf|Conferma di bloccare questa conferenza?|      extra
+./current-time-is|Sono le|      extra
+./currently|attualmente|      extra
+./current_account_balance|Il saldo del suo conto è di...|      extra
+./customer-accounts|account dei clienti|      extra
+./customer-relations|relazioni con i clienti|      extra
+./customer-service|servizio clienti|      extra
+./cyclone|ciclone|      extra
+./dallas|Dallas|      extra
+./date|Data|      extra
+./day|giorno|      extra
+./daylight|luce del giorno|      extra
+./days|giorni|      extra
+./de-activated|disattivato|      core
+./deadbeat|Deadbeat!|      extra
+./decode|decodifica|      extra
+./default-attendant|assistente di default|      extra
+./degrees|gradi|      extra
+./delaware|Delaware|      extra
+./demo-abouttotry|Stiamo per tentare una connessione di scambio Inter-Asterisk con un server di Digium, a titolo dimostrativo. Affinché questo funzioni è necessario essere già connessi a Internet. Attendere un momento  mentre proviamo ad inizializzare il collegamento.|      core
+./demo-congrats|Congratulazioni. Avete installato ed eseguito con successo il pbx open source Asterisk. È stato inoltre installato un insieme di suoni di esempio e di file di configurazione che dovrebbero aiutarvi ad iniziare. Come un PBX normale navigherete in questa dimostrazione componendo cifre. Se utilizzate un driver di canale di console invece di un vero e proprio telefono è possibile utilizzare i comandi componi, rispondi e riaggancia per simulare le azioni di un telefono standard.|      core
+./demo-echodone|Il test eco è stato completato.|      core
+./demo-echotest|State per entrare nel test dell'eco. In questa modalità tutto quello che dite si ripeterà di nuovo non appena ricevuto. Lo scopo di questo test è quello di dare un senso acustico della latenza tra l'utente e la macchina che esegue l'applicazione di test eco. Si può terminare il test riagganciando o premendo il tasto cancelletto.|      core
+./demo-enterkeywords|Inserisca una o più parole chiave separate da asterisco, quindi prema il tasto cancelletto.|      core
+./demo-instruct|Se volete avere maggiori informazioni tecniche al riguardo di Asterisk, digitate 2. Se volete testare la funzionalità Voice over IP di Asterisk e tentare un collegamento Inter-Asterisk o IAX a un server di dimostrazione di Digium, digitate 500. Affinché questo test funzioni, è necessario essere connessi a Internet a una velocità di almeno 64 kilobit al secondo. Per eseguire un test dell'eco, digitate 600. Questo test è molto utile quando si è collegati al server Asterisk da una postazione remota. La configurazione di esempio dispone anche di un singolo utente, il cui interno è 1234 e la password è 4242. Questo utente è configurato per far squillare la console quando viene digitato il suo interno. Se digitate 1234, potete provare a far squillare la console. Se la console fosse occupata o non disponibile, vi verrà data la possibilità di lasciare un messaggio vocale. Per controllare la casella vocale di questo utente, digitate 8500. Infine, è possibile digitare il tasto cancelletto per disconnettervi dal  PBX.|      core
+./demo-moreinfo|Asterisk è un PBX Open Source  completo di funzionalità e una piattaforma IVR che viene eseguito in un sistema operativo Linux. Per maggiori informazioni visitate il sito www.asterisk.org.|      core
+./demo-nogo|Temo di non essere in grado di creare una connessione al server Asterisk Digium di dimostrazione. Si possono trovare alcune informazioni di debug utili sulla console di Asterisk.|      core
+./demo-nomatch|Mi dispiace non ci sono corrispondenze per queste parole chiave|      core
+./demo-thanks|Arrivederci. Grazie per aver scelto il PBX Open Source Asterisk.|      core
+./denial-of-service|Mancanza di servizio|      extra
+./denver|Denver|      extra
+./department|Dipartimento|      extra
+./department-administrator|Amministratore di Dipartimento|      extra
+./deposit|deposito|      extra
+./descending-2tone| core
+./design|progettazione|      extra
+./detroit|Detroit|      extra
+./development|Sviluppo|      extra
+./dial-here-often|Allora, chiama spesso qui?|      extra
+./dictate/both_help|Digiti asterisco per attivare o disattivare la pausa. Digiti cancelletto per immettere un nuovo nome per il file di dettatura.|      core
+./dictate/enter_filename|Digiti un nome per il fail di dettatura seguito dal tasto cancelletto, o semplicemente cancelletto per uscire|      core
+./dictate/forhelp|digiti 0 per l'aiuto|      core
+./dictate/pause|pausa|      core
+./dictate/paused|in pausa|      core
+./dictate/playback|riproduzione|      core
+./dictate/playback_mode|modalità di riproduzione|      core
+./dictate/play_help|digiti 1 per passare alla modalità di registrazione, digiti 2 per attivare o disattivare la riproduzione veloce,  digiti 7 per andare indietro, digiti 8 per andare avanti|      core
+./dictate/record|registrazione|      core
+./dictate/record_help|digiti 1 per passare alla modalità di riproduzione, digiti 8 per troncare il file e ricominciare|      core
+./dictate/record_mode|modalità di registrazione|      core
+./dictate/truncating_audio|tagliando l'audio|      core
+./digit|cifra|      extra
+./digits|cifre|      extra
+./digits/0|zero|      core
+./digits/1|uno|      core
+./digits/10|dieci|      core
+./digits/11|undici|      core
+./digits/12|dodici|      core
+./digits/13|tredici|      core
+./digits/14|quattordici|      core
+./digits/15|quindici|      core
+./digits/16|sedici|      core
+./digits/17|diciassette|      core
+./digits/18|diciotto|      core
+./digits/19|diciannove|      core
+./digits/1F|una|      core
+./digits/1m|un|      core
+./digits/2|due|      core
+./digits/20|venti|      core
+./digits/21|ventuno|      core
+./digits/28|ventotto|      core
+./digits/3|tre|      core
+./digits/30|trenta|      core
+./digits/31|trentuno|      core
+./digits/38|Trentotto|      core
+./digits/4|quattro|      core
+./digits/40|quaranta|      core
+./digits/41|Quarantuno|      core
+./digits/48|Quarantotto|      core
+./digits/5|cinque|      core
+./digits/50|cinquanta|      core
+./digits/51|Cinquantuno|      core
+./digits/58|cinquantotto|      core
+./digits/6|sei|      core
+./digits/60|sessanta|      core
+./all-circuits-busy-now|Tutte le linee sono occupate|      core
+./all-outgoing-lines-unavailable|Tutte le linee di uscita sono al momento non disponibili|      extra
+./all-reps-busy|Tutti i nostri operatori sono attualmente occupati.|      extra
+./all-your-base|Tutta la vostra base ora appartiene a noi.|      extra
+./altitude|altitudine|      extra
+./ampersand|e commerciale|      extra
+./an-error-has-occured|Si è verificato un errore.|      extra
+./an-error-has-occurred|Si è verificato un errore.|      extra
+./and|e|      extra
+./and-area-code|e il prefisso...|      extra
+./and-or|e, o|      extra
+./and-prs-pound-whn-finished|E digiti cancelletto una volta terminato|      extra
+./andnowstandby|La preghiamo di restare in attesa per 10 minuti della sua vita che non torneranno mai.|      extra
+./another-time|in un altro momento|      extra
+./approaching|si avvicina|      extra
+./approximately|circa|      extra
+./are-you-still-there|Sei ancora lì?|      extra
+./are-you-still-there2|Sei ancora lì?|      extra
+./arizona|Arizona|      extra
+./arkansas|Arkansas|      extra
+./digits/61|sessantuno|      core
+./digits/68|sessantotto|      core
+./digits/7|sette|      core
+./digits/70|settanta|      core
+./digits/71|Settantuno|      core
+./digits/78|Settantotto|      core
+./digits/8|otto|      core
+./digits/80|ottanta|      core
+./digits/81|Ottantuno|      core
+./digits/88|Ottantotto|      core
+./digits/9|nove|      core
+./digits/90|novanta|      core
+./digits/91|novantuno|      core
+./digits/98|Novantotto|      core
+./digits/a-m|A.M.|      core
+./digits/at|a|      core
+./digits/billion|miliardo|      core
+./digits/day-0|Domenica|      core
+./digits/day-1|Lunedì|      core
+./digits/day-2|Martedì|      core
+./digits/day-3|Mercoledì|      core
+./digits/day-4|Giovedì|      core
+./digits/day-5|Venerdì|      core
+./digits/day-6|Sabato|      core
+./digits/dollars|dollari|      core
+./digits/e|e|      core
+./digits/euros|euro|      core
+./digits/h-1|primo|      core
+./digits/h-10|decimo|      core
+./digits/h-11|undicesimo|      core
+./digits/h-12|dodicesimo|      core
+./digits/h-13|tredicesimo|      core
+./digits/h-14|quattordicesimo|      core
+./digits/h-15|quindicesimo|      core
+./digits/h-16|sedicesimo|      core
+./digits/h-17|diciassettesimo|      core
+./digits/h-18|diciottesimo|      core
+./digits/h-19|diciannovesimo|      core
+./digits/h-2|secondo|      core
+./digits/h-20|ventesimo|      core
+./digits/h-3|terzo|      core
+./digits/h-30|trentesimo|      core
+./digits/h-4|quarto|      core
+./digits/h-40|quarantesimo|      core
+./digits/h-5|quinto|      core
+./digits/h-50|cinquantesimo|      core
+./digits/h-6|sesto|      core
+./digits/h-60|sessantesimo|      core
+./digits/h-7|settimo|      core
+./digits/h-70|settantesimo|      core
+./digits/h-8|ottavo|      core
+./digits/h-80|ottantesimo|      core
+./digits/h-9|nono|      core
+./digits/h-90|novantesimo|      core
+./digits/h-billion|miliardesimo|      core
+./digits/h-hundred|centesimo|      core
+./digits/h-million|milionesimo|      core
+./digits/h-thousand|millesimo|      core
+./digits/hours|Ore|      core
+./digits/hundred|cento|      core
+./digits/million|milioni|      core
+./digits/minus|meno|      core
+./digits/minutes|Minuti|      core
+./digits/mon-0|Gennaio|      core
+./digits/mon-1|Febbraio|      core
+./digits/mon-10|Novembre|      core
+./digits/mon-11|Dicembre|      core
+./digits/mon-2|Marzo|      core
+./digits/mon-3|Aprile|      core
+./digits/mon-4|Maggio|      core
+./digits/mon-5|Giugno|      core
+./digits/mon-6|Luglio|      core
+./digits/mon-7|Agosto|      core
+./digits/mon-8|Settembre|      core
+./digits/mon-9|Ottobre|      core
+./digits/oclock|in punto|      core
+./digits/oh|oh|      core
+./digits/ore-1900|Millenovecento|      core
+./digits/ore-2000|Duemila|      core
+./digits/ore-mezzanotte|Mezzanotte|      core
+./digits/ore-una|Una|      core
+./digits/p-m|P.M.|      core
+./digits/pound|Cancelletto|      core
+./digits/star|asterisco|      core
+./digits/thousand|migliaia|      core
+./digits/thousands|migliaia|      core
+./digits/today|oggi|      core
+./digits/tomorrow|domani|      core
+./digits/un|un|      core
+./digits/yesterday|ieri|      core
+./dir-first|lettere del nome della persona che sta cercando|      core
+./dir-firstlast|lettere del nome o cognome della persona che sta cercando|      core
+./dir-instr|Se questa è la persona che sta cercando, digiti 1. In caso contrario digiti asterisco.|      core
+./dir-intro|Questa è la rubrica. Inserisca le prime tre lettere del cognome della persona che sta cercando utilizzando la tastiera del telefono. Utilizzi il tasto 7 per la Q e il tasto 9 per la Z.|      core
+./dir-intro-fn|Questa è la rubrica. Inserisca le prime tre lettere del cognome della persona che sta cercando utilizzando la tastiera del telefono. Utilizzi il tasto 7 per la Q e il tasto 9 per la Z.|      core
+./dir-last|lettere del cognome della persona che sta cercando|      core
+./dir-multi1|Digiti|      core
+./dir-multi2|per|      core
+./dir-multi3|interno|      core
+./dir-multi9|Digiti 9 per altre voci.|      core
+./dir-nomatch|Nessuna voce nella rubrica corrisponde alla ricerca.|      core
+./dir-nomore|Non ci sono più voci nella rubrica per questa ricerca.|      core
+./dir-pls-enter|Inserire la prima|      core
+./dir-usingkeypad|utilizzando la tastiera del telefono. Utilizzare il tasto 7 per la Q e il tasto 9 per la Z.|      core
+./dir-welcome|Benvenuti nella rubrica|      core
+./directory|Direzione|      extra
+./directory-assistance|Assistenza direzione|      extra
+./disabled|Disabilitato|      core
+./discon-or-out-of-service|Il numero chiamato è stato scollegato o non è più in servizio. Si prega di verificare il numero e riprovare a chiamare.|      extra
+./disconnected|Scollegato|      extra
+./disk|Disco|      extra
+./distribution|Distribuzione|      extra
+./divided-by|diviso per|      extra
+./dns|DNS|      extra
+./do-not-disturb|Non disturbare|      core
+./doing-enum-lookup|Eseguendo ricerca e-num|      extra
+./dollars|dollari|      core
+./donotcall1|Questo numero è inserito nella lista dei numeri da non chiamare. Il vostro numero è stato registrato. Se pensa di aver chiamato questo numero per errore può premere uno adesso per lasciare un messaggio. Lasci pure il suo numero così potremo richiamarla nel momento che sceglieremo.|      extra
+./donotcall2|Prego aggiunga questo numero alla lista dei numeri da non chiamare.|      extra
+./dont-know-who-sent|Temo di non sapere chi ha inviato questo messaggio|      extra
+./doppler-radar|Radar ad impulsi Doppler|      extra
+./down|Giù|      extra
+./driving-directions|per indicazioni stradali sulla nostra posizione, digiti|      extra
+./duplex|duplex|      extra
+./duplication|Duplicato|      extra
+./early|presto|      extra
+./east|est|      extra
+./easterly|orientale|      extra
+./eastern|dell'est|      extra
+./echo-test|Ora sentirà la sua voce nel test dell'eco.|      extra
+./ed|Edu|      extra
+./eighteenth|diciottesimo|      extra
+./eighth|ottavo|      extra
+./eightieth|ottantesimo|      extra
+./el-paso|El Paso|      extra
+./eletelephony|Una volta c'era un elefante che ha cercato di usare il telefante. No! no! Intendo dire un elefono che ha cercato di usare il telefono.|      extra
+./eleventh|undicesimo|      extra
+./email|Email|      extra
+./emergency|Emergenza|      extra
+./enabled|abilitato|      core
+./encode|Codificato|      extra
+./engineering|Ingegneria|      extra
+./ent-target-attendant|Si prega di inserire il numero da utilizzare come destinazione.|      extra
+./enter-a-time|Immettere un orario utilizzando 4 cifre. Iniziare con lo zero per orari che sono inferiori al numero 10|      extra
+./enter-conf-call-number|Si prega di inserire il numero di conference call per la conferenza a cui si desidera accedere|      extra
+./enter-conf-pin-number|Si prega di inserire il numero pin della conferenza.|      extra
+./enter-ext-of-person|immettere l'interno della persona che si sta tentando di raggiungere|      extra
+./enter-num-blacklist|Si prega di digitare il numero da inserire in lista nera.|      core
+./enter-password|Si prega di digitare la password  seguita dal tasto cancelletto.|      extra
+./enter-phone-number10|Digiti il suo numero di telefono di dieci cifre, anteposto dal prefisso.|      extra
+./entering-conf-number|State entrando nella conferenza numero|      extra
+./enter_account|Per favore, digiti il suo numero di conto.|      extra
+./entr-num-rmv-blklist|Si prega di inserire il numero per essere rimosso dalla lista nera.|      core
+./enum-lookup-failed|ricerca e-num fallita|      extra
+./enum-lookup-successful|ricerca e-num riuscita|      extra
+./error|Errore|      extra
+./error-number|Numero di errore|      extra
+./est-hold-time-is|il tempo di attesa stimato è attualmente|      extra
+./euro|euro|      extra
+./european|Europeo|      extra
+./evening|sera|      extra
+./explanation|spiegazione|      extra
+./ext-or-zero|Si prega di digitare il numero della persona che si sta cercando di raggiungere  oppure 0 per un operatore.|      extra
+./extension|interno|      core
+./extensions|interni|      extra
+./facilities|Facilitazioni|      extra
+./fahrenheit|fahrenheit|      extra
+./falling|caduta|      extra
+./fast|veloce|      extra
+./feature-not-avail-line|Tale servizio non è disponibile su questa linea|      core
+./feeling_lucky_punk|Devi fare a te stesso una domanda: Mi sento fortunato? Allora, teppistello, ti senti tale?|      extra
+./feet|Piedi|      extra
+./female|Femminile|      extra
+./fifteenth|quindicesimo|      extra
+./fifth|quinto|      extra
+./fiftieth|cinquantesimo|      extra
+./finals|Finali|      extra
+./finance|Finanza|      extra
+./first|primo|      extra
+./first-in-line|La sua chiamata è ora la prima. Un nostro operatore risponderà appena disponibile.|      extra
+./flagged-for-lea|è stato contrassegnato per essere portato via da parte delle forze dell'ordine|      extra
+./flooding|allagamento|      extra
+./florida|Florida|      extra
+./fog|nebbia|      extra
+./foggy|nebbioso|      extra
+./followed-by|seguito da|      extra
+./followed_hash|seguito dal tasto cancelletto|      extra
+./followed_pound|seguito dal tasto cancelletto|      extra
+./followme/call-from|chiamata in arrivo da|      core
+./followme/no-recording|Ha una chiamata in arrivo|      core
+./followme/options|Digiti 1 per accettare la chiamata o 2 per rifiutarla|      core
+./followme/pls-hold-while-try|La preghiamo di restare in attesa mentre la colleghiamo con la persona desiderata|      core
+./followme/sorry|Siamo spiacenti, ma non siamo riusciti a collegarla con la persona desiderata.|      core
+./followme/status|La persona desiderata non è alla scrivania. Cercheremo di collegarla al più presto|      core
+./food-service|Servizio alimentare|      extra
+./food-services|Servizi alimentari|      extra
+./for|Per|      core
+./for-a-daily-wakeup-call|Per una sveglia giornaliera|      extra
+./for-a-list-of|Per un elenco di|      extra
+./for-accounting|Per la contabilità|      extra
+./arlington|Arlington|      extra
+./ascending-2tone| core
+./astcc-account-balance-is|Il saldo del suo conto è ...|      extra
+./astcc-account-number-invalid|Il suo numero di conto non è valido|      extra
+./astcc-balance-of-account-is|Il saldo del suo conto è ...|      extra
+./astcc-card-number-invalid|Il numero della carta che ha inserito non è valido.|      extra
+./astcc-digit-account-number|Digiti il numero di conto|      extra
+./astcc-followed-by-pound|seguito dal tasto cancelletto|      extra
+./astcc-followed-by-the-hash-key|seguito dal tasto cancelletto.|      extra
+./astcc-followed-by-the-pound-key|seguito da cancelletto.|      core
+./astcc-login12pound|Inserisca il suo numero di conto a 12 cifre, saltando qualsiasi punteggiatura, seguito dal tasto cancelletto.|      extra
+./astcc-please-enter-your|Inserisca il suo ...|      extra
+./astcc-skipping-any-punctuation|saltando la punteggiatura|      extra
+./asterisk-friend|Asterisk è suo amico.|      extra
+./at-any-time|a qualsiasi ora|      extra
+./at-customers-request|a richiesta dei clienti|      extra
+./at-following-number|Al seguente numero|      extra
+./at-sign|al segnale|      extra
+./at-tone-time-exactly|Dopo il tono, saranno esattamente le ore|      core
+./athletics|Atletica leggera|      extra
+./for-billing|Per la fatturazione|      extra
+./for-english-press|Per l'inglese  digiti|      extra
+./for-investor-relations|Per l'ufficio relazioni con gli azionisti, digiti|      extra
+./for-louie-louie|per il testo della canzone Louie  Louie, premete|      extra
+./for-no-press|per no, digiti|      extra
+./for-qc-and-training-purposes|Per la formazione e il controllo qualità|      extra
+./for-quality-purposes|a fini di garanzia di qualità|      extra
+./for-sales|Per l'ufficio commerciale|      extra
+./for-service|Per servizio|      extra
+./for-tech-support|Per il supporto tecnico|      extra
+./for-the-first|Per il primo|      extra
+./for-the-weather|Per il meteo|      extra
+./for-wakeup-call|Per una sveglia|      extra
+./for-yes-press|per sì, digiti|      extra
+./forget_about_it|Dimenticalo|      extra
+./fort-worth|Fort Worth|      extra
+./fortieth|quarantesimo|      extra
+./fourteenth|quattordicesimo|      extra
+./fourth|quarto|      extra
+./freeze|congelare|      extra
+./freezing|congelamento|      extra
+./frequency|Frequenza|      extra
+./fresno|Fresno|      extra
+./from|da|      extra
+./from-unknown-caller|da un chiamante sconosciuto|      core
+./ftp|FTP|      extra
+./gale|tempesta|      extra
+./gambling-drunk|Siamo usciti a giocare d'azzardo e ubriacarci.|      extra
+./georgia|Georgia|      extra
+./get-in-line-sales-guy|Grazie per aver chiamato. Noi rispondiamo alle chiamate solo su appuntamento. Il nostro primo appuntamento disponibile è, approssimativamente, fra 90 giorni da oggi. Per pianificare un appuntamento, prema 1 e dica la data e l'ora della vostra richiesta di appuntamento e il vostro numero di casa. La contatteremo, se è disponibile, nel prossimo fine settimana. Per ripetere questo messaggio, prema 2.|      extra
+./get_bleep_outta|Grande! Adesso toglietevi dal cazzo|      extra
+./get_information|Ho solo bisogno di una piccola informazione da lei|      extra
+./get_information_first|Posso avere qualche informazione da lei prima?|      extra
+./gigabits|Gigabit|      extra
+./gigabytes|Gigabytes|      extra
+./gigahertz|Gigahertz|      extra
+./giggle1|risatina|      extra
+./gmt|Ora di greenwich|      extra
+./go-away1|Vai via!|      extra
+./go-away2|Vattene|      extra
+./good|buono|      extra
+./good-afternoon|Buon pomeriggio|      extra
+./good-evening|Buonasera|      extra
+./good-morning|Buongiorno|      extra
+./goodbye|Arrivederci!|      core
+./goodbye_for_the_best|Arrivederci. No, davvero, è la cosa migliore. Arrivederci.|      extra
+./goodbye_love|Arrivederci. Grazie per aver provato il PBX open source Asterisk. Vi è piaciuto vero?|      extra
+./got_kidding|Oh Dio! Dimmi che stai scherzando!|      extra
+./grammar|Grazie per aver chiamato. Prego lasciare un messaggio dopo il segnale acustico. Per eliminare i messaggi indesiderati il vostro messaggio sarà controllato da un professore di italiano o una professoressa e sarà cancellato se contiene errori di grammatica o di forma. Prego parlate chiaramente per evitare problemi di omonimie. Grazie e buona giornata.|      extra
+./greater-than|maggiore di|      extra
+./groovy|Groovy|      extra
+./ha/ac|AC|      extra
+./ha/air-conditioner|condizionatore|      extra
+./ha/alarm|allarme|      extra
+./ha/amp|Amper|      extra
+./ha/amps|Amper|      extra
+./ha/attic|soffitta|      extra
+./ha/baby-sleeping-mode|Modalità, il bambino dorme|      extra
+./ha/back|indietro|      extra
+./ha/basement|seminterrato|      extra
+./ha/bathroom|bagno|      extra
+./ha/bedroom|camera da letto|      extra
+./ha/bright|Luce|      extra
+./ha/callerid|numero del chiamante|      extra
+./ha/carport|posto auto coperto|      extra
+./ha/closet|ripostiglio|      extra
+./ha/coffee-pot|caffettiera|      extra
+./ha/cool|fresco|      extra
+./ha/cooling|raffreddamento|      extra
+./ha/dc|DC|      extra
+./ha/decibel|decibel|      extra
+./ha/decibels|decibel|      extra
+./ha/deck|deck|      extra
+./ha/degree|grado|      extra
+./ha/degrees|gradi|      extra
+./ha/den|Studio|      extra
+./ha/dim|dim|      extra
+./ha/dining-room|sala da pranzo|      extra
+./ha/door|porta|      extra
+./ha/doors|porte|      extra
+./ha/down|Giù|      extra
+./ha/driveway|vialetto|      extra
+./ha/dryer|essiccatore|      extra
+./ha/fan|ventola|      extra
+./ha/farad|Farad|      extra
+./ha/farads|Farads|      extra
+./ha/first-floor|primo piano|      extra
+./ha/floor|piano|      extra
+./ha/floors|piani|      extra
+./ha/for-extended-status-report|Per un rapporto esteso sullo stato|      extra
+./ha/for-quick-status-report|Per un report sullo stato|      extra
+./ha/for-wx-report|Per le previsioni del tempo|      extra
+./ha/fountain|fontana|      extra
+./ha/foyer|ingresso|      extra
+./ha/front|davanti|      extra
+./ha/furnace|fornace|      extra
+./ha/game-room|sala giochi|      extra
+./ha/garage|garage|      extra
+./ha/great-room|stanza grande|      extra
+./ha/guest-room|stanza degli ospiti|      extra
+./ha/hall|ingresso|      extra
+./ha/has-been-left|è stata lasciata|      extra
+./ha/heat|caldo|      extra
+./ha/heat-pump|Pompa di calore|      extra
+./ha/heating|riscaldamento|      extra
+./ha/hot-tub|vasca idromassaggio|      extra
+./ha/house|abitazione|      extra
+./ha/intruder|intruso|      extra
+./ha/is|è|      extra
+./ha/kelvin|kelvin|      extra
+./ha/kitchen|cucina|      extra
+./ha/lamp|Lampada|      extra
+./ha/lamps|Lampade|      extra
+./ha/landscape|paesaggio|      extra
+./ha/laundry|lavanderia|      extra
+./ha/library|Biblioteca|      extra
+./ha/light|luce|      extra
+./ha/lights|luci|      extra
+./ha/living-room|soggiorno|      extra
+./ha/locked|bloccato|      extra
+./ha/locking|bloccaggio|      extra
+./ha/mailbox|Casella vocale|      extra
+./ha/master|maestro|      extra
+./ha/off|spento|      extra
+./ha/office|Ufficio|      extra
+./ha/ohm|Ohm|      extra
+./ha/ohms|Ohm|      extra
+./ha/on|su|      extra
+./ha/open|aprire|      extra
+./ha/patio|patio|      extra
+./ha/phone|telefono|      extra
+./ha/play|giocare|      extra
+./ha/play-room|sala giochi|      extra
+./ha/pool|piscina|      extra
+./ha/porch|portico|      extra
+./ha/power-failure|mancanza di alimentazione|      extra
+./ha/pressure|pressione|      extra
+./ha/psi|PSI|      extra
+./ha/quiet-mode|modalità silenziosa|      extra
+./ha/reset|reimpostare|      extra
+./ha/roof|volta|      extra
+./ha/room|camera|      extra
+./ha/rooms|camere|      extra
+./ha/second-floor|secondo piano|      extra
+./ha/secure|assicurare|      extra
+./ha/security-system|sistema di sicurezza|      extra
+./ha/set|Imposta|      extra
+./ha/side|lato|      extra
+./ha/solar|solare|      extra
+./ha/sprinklers|irrigatori|      extra
+./ha/still|ancora|      extra
+./ha/stove|stufa|      extra
+./ha/sump-pump|pompa|      extra
+./ha/sun-room|solarium|      extra
+./ha/system|Sistema|      extra
+./ha/systems|Sistemi|      extra
+./ha/thermostat|termostato|      extra
+./ha/to-control-environ-sys|per sistemi di controllo ambientale|      extra
+./ha/to-control-lights-appl|per controllare luci ed elettrodomestici|      extra
+./ha/tower|torre|      extra
+./ha/unlocked|sbloccato|      extra
+./ha/unlocking|sblocco|      extra
+./ha/up|su|      extra
+./ha/volt|Volt|      extra
+./ha/volts|Volt|      extra
+./ha/washing-machine|lavatrice|      extra
+./ha/water-heater|scaldabagno|      extra
+./ha/watt|Watt|      extra
+./ha/watts|Watts|      extra
+./ha/well-pump|pompa|      extra
+./ha/window|finestra|      extra
+./ha/windows|Windows|      extra
+./ha/xmas-lights|Luci di Natale|      extra
+./ha/xmas-tree|Albero di Natale|      extra
+./ha/yard|cantiere|      extra
+./hail|Grandine|      extra
+./half|metà|      extra
+./hal_goodbye|questa chiamata non serve più a nessuno scopo. Arrivederci|      extra
+./hang-on-a-second|Aspetti un secondo ...|      extra
+./hang-on-a-second-angry|Ho detto aspetti un attimo!|      extra
+./hangup-try-again|Si prega di riagganciare e riprovare a chiamare.|      extra
+./happy_saved|Sono felice di dirle che il suo messaggio è stato registrato.|      extra
+./has|ha|      extra
+./has-arrived-at|è arrivato al|      extra
+./has-been|è stato|      extra
+./has-been-changed-to|è stato cambiato in|      extra
+./has-been-cleared|è stata cancellata|      extra
+./has-been-disconnected|è stato scollegato|      extra
+./has-been-set-to|è stato impostato a|      extra
+./has-expired|è scaduto|      extra
+./has-issued-a|ha emesso un|      extra
+./has-not-been-seen-for|non è stato visto per|      extra
+./hash|cancelletto|      extra
+./hawaii|Hawaii|      extra
+./headed-towards|Diretti verso|      extra
+./heading|Intestazione|      extra
+./health-center|Ospedale|      extra
+./hear-odd-noise|per sentire un rumore strano, digiti|      extra
+./hear-toilet-flush|per sentire uno sciacquone, digiti|      extra
+./hectopascal|etto pascal|      extra
+./atlanta|Atlanta|      extra
+./atlantic|atlantic|      extra
+./attention-required|È richiesta la sua attenzione|      extra
+./at_tone|Al segnale acustico|      extra
+./auditing|Revisione|      extra
+./austin|Austin|      extra
+./auth-incorrect|Password errata. Dìgiti la password seguita dal tasto cancelletto.|      core
+./auth-thankyou|Grazie.|      core
+./available|Disponibile|      extra
+./available-options|opzioni disponibili|      extra
+./avg-speed-answer|velocità media di risposta|      extra
+./away-naughty-boy|E 'attualmente lontano dal suo telefono, il ragazzaccio.|      extra
+./away-naughty-girl|E' attualmente lontana dal suo telefono, la ragazzaccia.|      extra
+./awkward|Imbarazzante|      extra
+./backslash|backslash|      extra
+./bad|Cattivo|      extra
+./baltimore|Baltimora|      extra
+./bar|bar|      extra
+./barn|Fienile|      extra
+./barns|Fienili|      extra
+./hello|Ciao|      core
+./hello-world|Ciao mondo.|      core
+./helpdesk|Helpdesk|      extra
+./hertz|Hertz|      extra
+./high|alto|      extra
+./highway|Autostrada|      extra
+./hit|colpire|      extra
+./hold-or-dial-0|Si prega di continuare ad attendere o digitare zero e lasciare un messaggio nella nostra casella vocale.|      extra
+./home|casa|      extra
+./honolulu|Honolulu|      extra
+./hours|ore|      core
+./housekeeping|Servizio ai piani|      extra
+./houston|Houston|      extra
+./http|HTTP|      extra
+./human-resources|Risorse umane|      extra
+./humidity|umidità|      extra
+./hundredth|centesimo|      extra
+./hurricane|uragano|      extra
+./hz|Hertz|      extra
+./i-dont-understand|Non capisco.|      extra
+./i-dont-understand2|IO...non capisco.|      extra
+./i-dont-understand3|Non capisco.|      extra
+./i-dont-understand4|Io... non... capisco.|      extra
+./i-dont-understand5|Uhm  non capisco.|      extra
+./i-grow-bored|Io sono annoiato di questa conversazione.|      extra
+./ice|gelato|      extra
+./icmp|ICMP|      extra
+./icy|ghiacciato|      extra
+./idaho|Idaho|      extra
+./if-correct-press|Se corretto  digiti|      core
+./if-grtg-played-indefinately|se questo messaggio dovesse essere ripetuto indefinitamente|      extra
+./if-grtg-should-expire-at|se questo messaggio dovesse scadere alle|      extra
+./if-maint-contract-or-emergency|Se si dispone di un contratto di manutenzione o avesse bisogno di assistenza urgente|      extra
+./if-rotary-phone|Se si dispone di un telefono a disco si prega di rimanere in linea dopo il menu.|      extra
+./if-this-is-correct|Se corretto ...|      extra
+./if-this-is-correct-press|se corretto, digiti|      extra
+./if-this-is-not-correct|Se non è corretto ...|      extra
+./if-u-know-ext-dial|Se conosce il numero di interno desiderato, lo digiti ora.|      extra
+./if-unsuccessful-speak-to|Nel caso in cui non riuscissimo, dovrebbe parlare con|      extra
+./if-you-know-the|se conosce la|      extra
+./if-you-need-help|se ha bisogno di aiuto|      extra
+./if-youd-like-to-make-a-call|Se volesse effettuare una chiamata ...|      extra
+./illinois|Illinois|      extra
+./im-sorry|Ci dispiace|      core
+./im-sorry-unable-to-connect-to-eng|Ci dispiace ma non siamo stati in grado di collegarla al nostro supporto tecnico.|      extra
+./imap|IMAP|      extra
+./in-service|In servizio|      extra
+./in-the|nella|      extra
+./in-the-line|nella linea|      extra
+./in-the-queue|nella coda|      extra
+./in-your-city|nella sua città|      extra
+./in-your-zip-code|il codice avviamento postale|      extra
+./inbound|in ingresso|      extra
+./indiana|Indiano|      extra
+./indianapolis|Indianapolis|      extra
+./indicated|indicato|      extra
+./info-about-last-call|Informazioni sulla vostra ultima chiamata|      core
+./information|informazioni|      extra
+./information-technology|Information Technology|      extra
+./infuriate-tech-staff|Per far infuriare il nostro staff tecnico con le sue domande banali, digiti...|      extra
+./initiated|Avviato|      extra
+./initiating|Avvio|      extra
+./inside-sales|Reparto vendite|      extra
+./internal-audit|Controllo interno|      extra
+./international-call|Chiamata internazionale|      extra
+./interstate|Interstatale|      extra
+./invalid|Siamo spiacenti, la scelta non è valida. Riprovi.|      core
+./invalid-date|Data non valida|      extra
+./invalid-featurecode|Siamo spiacenti. Questo codice funzione non è supportato. Riprovi.|      extra
+./investor-relations|Relazioni con gli azionisti|      extra
+./iowa|Iowa|      extra
+./is|è|      core
+./is-at|è a|      extra
+./is-curntly-busy|è attualmente occupato|      extra
+./is-curntly-unavail|è al momento non disponibile|      extra
+./is-currently|è attualmente|      extra
+./is-in-use|è in uso|      core
+./is-not-in-the|Non è nel ...|      extra
+./is-not-set|non è impostato|      extra
+./is-now-being-recorded|è ora in fase di registrazione|      extra
+./is-set-to|è impostato|      core
+./it-now|ora|      extra
+./it-services|Servizi IT|      extra
+./jacksonville|Jacksonville|      extra
+./janitorial|Pulizie|      extra
+./jason|Jason|      extra
+./jedi-extension-trick|Questo non è l'interno che si sta cercando.|      extra
+./john|John|      extra
+./just-kidding-not-upset|Stiamo scherzando...non arrabbiatevi!|      extra
+./just-kidding-not-upset2|Stiamo scherzando...non arrabbiatevi!|      extra
+./kansas|Kansas|      extra
+./kansas-city|Kansas City|      extra
+./kentucky|Kentucky|      extra
+./keywords_cross_fingers|Prego inserisca una o più parole chiave separate da asterisco, incroci le dita, e quindi prema il tasto cancelletto.|      extra
+./kilobits|Kilobit|      extra
+./kilobytes|Kilobyte|      extra
+./kilohertz|Kilohertz|      extra
+./kilometer|Chilometro|      extra
+./kilometers-per-hour|chilometri all'ora|      extra
+./knock-knock|Toc toc!|      extra
+./knots|nodi|      extra
+./language|Lingua|      extra
+./las-vegas|Las Vagas|      extra
+./last-error-was|L'ultimo errore su questa linea è stato ...|      extra
+./last-num-to-call|L'ultimo numero che ha chiamato la vostra linea è stato ...|      extra
+./late|tardi|      extra
+./later|più tardi|      extra
+./lea-may-request-info|Le forze dell'ordine potrebbero richiedere queste informazioni|      extra
+./left-bracket|parentesi quadra aperta|      extra
+./legal|Legale|      extra
+./len|Lunghezza|      extra
+./less-than|meno di|      extra
+./letters/a|a|      core
+./letters/ascii123|parentesi graffa aperta|      core
+./letters/ascii124|pipe|      core
+./letters/ascii125|parentesi graffa chiusa|      core
+./letters/ascii126|tilde|      core
+./letters/ascii34|virgolette|      core
+./letters/ascii36|dollaro|      core
+./letters/ascii37|percento|      core
+./letters/ascii38|e commerciale|      core
+./letters/ascii39|apostrofo|      core
+./letters/ascii40|parentesi aperta|      core
+./letters/ascii41|parentesi chiusa|      core
+./letters/ascii42|asterisco|      core
+./letters/ascii44|virgola|      core
+./letters/ascii58|due punti|      core
+./letters/ascii59|punto e virgola|      core
+./letters/ascii60|minore|      core
+./letters/ascii62|maggiore|      core
+./letters/ascii63|punto interrogativo|      core
+./letters/ascii91|parentesi quadra aperta|      core
+./letters/ascii92|barra retroversa|      core
+./letters/ascii93|parentesi quadra chiusa|      core
+./letters/ascii94|caret|      core
+./letters/ascii95|trattino basso|      core
+./letters/ascii96|accento grave|      core
+./letters/asterisk|asterisco|      core
+./letters/at|@|      core
+./letters/b|b|      core
+./letters/c|c|      core
+./letters/d|d|      core
+./letters/dash|trattino|      core
+./letters/dollar|dollaro|      core
+./letters/dot|punto|      core
+./letters/e|e|      core
+./letters/equals|uguale|      core
+./letters/exclaimation-point|punto esclamativo|      core
+./letters/f|f|      core
+./letters/g|g|      core
+./letters/h|h|      core
+./letters/i|i|      core
+./letters/j|j|      core
+./letters/k|k|      core
+./letters/l|l|      core
+./letters/m|m|      core
+./letters/n|n|      core
+./letters/o|o|      core
+./letters/p|p|      core
+./letters/plus|più|      core
+./letters/q|q|      core
+./letters/r|r|      core
+./letters/s|s|      core
+./letters/slash|barra|      core
+./letters/space|spazio|      core
+./letters/t|t|      core
+./letters/u|u|      core
+./letters/v|v|      core
+./letters/w|w|      core
+./letters/x|x|      core
+./letters/y|y|      core
+./letters/z|z|      core
+./letters/zed|z|      core
+./library|Biblioteca|      extra
+./lightning|fulmine|      extra
+./like_to_tell_valid_ext|Mi piacerebbe dirle che è un interno valido, ma non posso. Prego, riprovare.|      extra
+./limit-simul-calls|Per preservare la banda Internet e mantenere la qualità delle chiamate, questo sistema ha un limite sul numero di chiamate simultanee.|      extra
+./lines-complaining-customers|Tutte le linee sono piene di clienti che si lamentano.|      extra
+./linux|Linux|      extra
+./list|elenco|      extra
+./load-average|Carico medio|      extra
+./local-authorities|le autorità locali|      extra
+./location|Posizione|      core
+./login-fail|Accesso fallito|      extra
+./long-beach|Long Beach|      extra
+./los-angeles|Los Angeles|      extra
+./loss|Perdita|      extra
+./loss-prevention|Prevenzione perdita|      extra
+./lots-o-monkeys| extra
+./louisiana|Louisiana|      extra
+./low|basso|      extra
+./lowercase|minuscola|      core
+./lunch|Pranzo|      extra
+./lyrics-louie-louie| extra
+./machine|Macchina|      extra
+./made-it-up|Solo perché l'ho inventato non vuol dire che non sia vero.|      extra
+./mail|Posta|      extra
+./mailroom|Centro di smistamento|      extra
+./main-menu|Menu principale|      extra
+./maine|Maine|      extra
+./barometric|barometrica|      extra
+./bearing|Cuscinetto|      extra
+./beaufort|beaufort|      extra
+./because-paranoid|perché siamo paranoici|      extra
+./beep| core
+./beeperr| core
+./before-the-number|prima del numero.|      extra
+./believe-its-free|Ci credereste che questo sistema telefonico è gratuito?|      extra
+./billing|Tariffazione|      extra
+./billing-and-collections|Tariffazione e pagamenti|      extra
+./billionth|miliardesimo|      extra
+./binary|Grazie per aver chiamato. In questo momento non possiamo rispondere alla sua chiamata, perciò sarà inoltrata a una macchina differenziale di Babbage per l'analisi e la trascrizione. Per evitare errori, la preghiamo di lasciare un messaggio in parole di una sillaba o meno. Può anche lasciare un messaggio in codice binario, utilizzando le parole uno e zero. Grazie.|      extra
+./bits|bit|      extra
+./blue-eyed-polar-bear|Cerchi di trascorrere il suo tempo di attesa  non pensando ad un orso polare con gli occhi azzurri.|      extra
+./bombsquad|Grazie per aver chiamato. La vostra chiamata anonima è stata registrata e la squadra artificieri è stata inviata alla vostra posizione. Non sono richieste ulteriori azioni da parte vostra, a meno che, non abbiate bisogno di un paio di mutante pulite. Per questo non vi possiamo aiutare|      extra
+./bookstore|Libreria|      extra
+./boston|Boston|      extra
+./box|Box|      extra
+./brian|Brian|      extra
+./business-development|Sviluppo del business|      extra
+./maintenance|Manutenzione|      extra
+./male|Maschile|      extra
+./management|Amministrazione|      extra
+./manufacturing|Produzione|      extra
+./marketing|Marketing|      extra
+./marryme|Mi vuoi sposare? Digiti 1 per sì o 2 per no.|      extra
+./martini|Sono spiacente di non essere in grado di creare una connessione con il server Asterisk dimostrativo in Digium. Mi creda, anch'io sono frustrata. Potreste trovare alcune utili informazioni di debug nella console di Asterisk. Io intanto vado a farmi un Martini.|      extra
+./maryland|Maryland|      extra
+./massachusetts|Massachusetts|      extra
+./mathematics|Matematica|      extra
+./maximum|massimo|      extra
+./megabits|megabit|      extra
+./megabytes|megabyte|      extra
+./megahertz|megahertz|      extra
+./memory|memoria|      extra
+./memphis|Memphis|      extra
+./menu|Menu|      extra
+./mesa|Mesa|      extra
+./message-from|messaggio da|      extra
+./message-number|Messaggio numero|      extra
+./messages_curious|Per accedere ai suoi messaggi, digiti 1 ora. Andiamo! Lo sa, che la curiosità è il suo punto debole! Quando ha finito, può uscire dalla casella vocale, in ogni momento, premendo il tasto cancelletto.|      extra
+./meter|metro|      extra
+./meters|metri|      extra
+./miami|Miami|      extra
+./michigan|Michigan|      extra
+./midnight|mezzanotte|      extra
+./midnight-tomorrow-night|mezzanotte di domani notte|      extra
+./midnight-tonight|mezzanotte di oggi|      extra
+./mike|Michele|      extra
+./miles|miglia|      extra
+./miles-per-hour|miglia all'ora|      extra
+./millions|milioni|      core
+./millionth|milionesimo|      extra
+./milwaukee|Milwaukee|      extra
+./mind_repeating|Le dispiacerebbe ripeterlo?|      extra
+./minimum|minimo|      extra
+./minions-not-answering-leave-message|Sono spiacente, i miei minions non hanno potuto connettere la sua chiamata quindi, prego, lasci un messaggio.|      extra
+./minneapolis|Minneapolis|      extra
+./minnesota|Minnesota|      extra
+./minute|minuto|      extra
+./minutes|minuti|      core
+./missed|perso|      extra
+./mississippi|Mississippi|      extra
+./missouri|Missouri|      extra
+./misty|Misty|      extra
+./mode|modalità|      extra
+./monitored|monitorati|      extra
+./montana|Montana|      extra
+./month|mese|      extra
+./months|mesi|      extra
+./moo1| extra
+./moo2| extra
+./morning|mattino|      extra
+./moron|Deficiente!|      extra
+./mostly|per lo più|      extra
+./motor-pool|Parco Macchine|      extra
+./mountain|montagna|      extra
+./moving|in movimento|      extra
+./ms|millisecondi|      extra
+./nashville|Nashville|      extra
+./national-weather-service|Servizio metereologico nazionale|      extra
+./nautical-miles|miglia nautiche|      extra
+./nbdy-avail-to-take-call|Nessuno è disponibile a rispondere alla chiamata.|      extra
+./near|vicino|      extra
+./nebraska|Nebraska|      extra
+./negative|Negativo|      extra
+./network-operations|Network Operations|      extra
+./network-operations-center|CED|      extra
+./nevada|Nevada|      extra
+./new-accounts|Nuovi accounts|      extra
+./new-hampshire|New Hampshire|      extra
+./new-jersey|New Jersey|      extra
+./new-mexico|Nuovo Messico|      extra
+./new-orleans|New Orleans|      extra
+./new-york|New York|      extra
+./night|Notte|      extra
+./nineteenth|diciannovesimo|      extra
+./ninetieth|novantesimo|      extra
+./ninth|nono|      extra
+./no-112-1|questa linea non supporta servizi di emergenza|      extra
+./no-112-2|questa linea non supporta servizi di emergenza|      extra
+./no-911-1|questa linea non supporta servizi di emergenza|      extra
+./no-911-2|questa linea non supporta servizi di emergenza|      extra
+./no-empty-conferences|Attualmente non esistono conferenze vuote.|      extra
+./no-info-about-number|non sono disponibili ulteriori informazioni su questo numero|      extra
+./no-longer-in-service|non è più in servizio|      extra
+./no-reply-no-mailbox|Non può rispondere a questo messaggio perché il mittente non dispone di una casella di posta|      extra
+./no-route-exists-to-dest|Nessuna linea di uscita per il numero composto|      extra
+./nobody-but-chickens|Nessuno qui ma noi polli!|      extra
+./node|nodo|      extra
+./none_of_my_business1|non è disponibile. Non ho idea di cosa stiano combinando. Non sono affari miei!|      extra
+./none_of_my_business2|Nessuno è disponibile a prendere la sua chiamata in questo momento. Non ho idea di cosa stiano combinando. Non sono affari miei!|      extra
+./north|nord|      extra
+./north-carolina|Nord Carolina|      extra
+./north-dakota|North Dakota|      extra
+./northerly|settentrionale|      extra
+./not-auth-pstn|Lei non è autorizzato a chiamare utilizzando la rete PSTN|      extra
+./not-enough-credit|Non si dispone di credito sufficiente ad effettuare questa chiamata.|      extra
+./not-necessary-1|Non è necessario digitare uno quando componete questo numero.|      extra
+./not-necessary-ac|Non è necessario digitare il prefisso quando si compone il numero.|      extra
+./not-necessary-dial-1-or-ac|Non è necessario digitare un 1 o il prefisso quando si compone questo numero.|      extra
+./not-rqsted-wakeup|Lei non ha richiesto una sveglia.|      extra
+./not-taking-your-call|La persona chiamata ha deciso di non rispondere in questo momento.|      extra
+./not-yet-assigned|non è stato ancora assegnato|      extra
+./not-yet-connected|non è ancora collegato.|      extra
+./nothing-recorded|nulla è stato registrato|      extra
+./not_me|Non sono io, sei tu. Troviamo un operatore|      extra
+./not_pass|Non passerai!|      extra
+./not_siri|Penso che lei possa avermi scambiato per Siri|      extra
+./not_you|Non sei tu, sono io. Troviamo un operatore.|      extra
+./now|ora.|      extra
+./no_invite_to_conf|Il PIN digitato non è valido. Esiste la possibilità che non sia stato invitato?|      extra
+./no_longer_conf|non è più nella conferenza.|      extra
+./no_problem_help|Nessun problema. La posso aiutare in questo|      extra
+./no_worries_try_again|Non si preoccupi. Provi di nuovo.|      extra
+./num-not-in-db|Numero non trovato nel database.|      extra
+./num-outside-area|Il numero che si sta chiamando è al di fuori della vostra zona di chiamata locale. Si prega di digitare ...|      extra
+./num-was-successfully|Il numero è stato correttamente|      core
+./number|numero|      core
+./number-not-answering|Il numero non risponde.|      core
+./oakland|Oakland|      extra
+./octothorpe|cancelletto|      extra
+./off|spento|      extra
+./off-duty|Fuori servizio|      extra
+./office|Ufficio|      extra
+./office-code|codice ufficio|      extra
+./office-iguanas|L'ufficio è stato invaso dalle iguane.|      extra
+./OfficeSpace|Ciao, solo un momento|      extra
+./ogm_home|Siamo spiacenti, ma al momento nessuno è disponibile per rispondere alla sua chiamata. La preghiamo di lasciare un messaggio, la richiameremo appena possibile.|      extra
+./ohio|Ohio|      extra
+./oklahoma|Oklahoma|      extra
+./oklahoma-city|Oklahoma City|      extra
+./omaha|Omaha|      extra
+./on|su|      extra
+./on-busy|su occupato|      extra
+./on-monthly-tel-stment|sulla sua bolletta mensile|      extra
+./on-no-answer|su nessuna risposta|      extra
+./one-moment-please|un momento  per favore.|      core
+./one-small-step|Questo è un piccolo passo per Asterisk, un passo gigantesco per l'umanità.|      extra
+./one-small-step2|Questo è un piccolo passo per Asterisk, un passo gigantesco per l'umanità.|      extra
+./oops1|Oops|      extra
+./oops2|Oops|      extra
+./oops3|Oops|      extra
+./open|aprire|      extra
+./open-parenthesis|aperta parentesi|      extra
+./operations|Operazioni|      extra
+./option-is-invalid|Questa opzione non è valida. Prego provi di nuovo.|      extra
+./option-not-implemented|Questa opzione non è stata implementata.|      extra
+./or|oppure|      extra
+./or-press|oppure digiti|      extra
+./order-desk|Order Desk|      extra
+./orders|Ordini|      extra
+./oregon|Oregon|      extra
+./other-options-exercise|Tutte le altre opzioni sono lasciate come un esercizio per il chiamante.|      extra
+./otherwise|Altrimenti ...|      extra
+./otherwise-press|altrimenti digiti|      extra
+./our-business-hours-are|I nostri orari sono|      extra
+./outbound|in uscita|      extra
+./outside-sales|Venditori esterni|      extra
+./outside-transfer|Trasferimento esterno|      extra
+./pacific|Pacifico|      extra
+./packet|pacchetto|      extra
+./panic|panico|      extra
+./partially|parzialmente|      extra
+./partly|parzialmente|      extra
+./pascal|pascal|      extra
+./pascal2|pascal2|      extra
+./passwords_not_match|Le password digitate non corrispondono. Non so cosa dirle. Vuole riprovare?|      extra
+./patchy|irregolare|      extra
+./pbx-invalid|Siamo spiacenti, l'interno non è valido. Riprovi.|      core
+./pbx-invalidpark|Siamo spiacenti, in questo interno non c'è nessuna chiamata in attesa. Riprovi.|      core
+./pbx-parkingfailed|Siamo spiacenti, il parcheggio della chiamata non è riuscito.|      core
+./pbx-transfer|Trasferimento.|      core
+./pence|Pence|      extra
+./pennies|Pennies|      extra
+./pennsylvania|Pennsylvania|      extra
+./penny|Penny|      extra
+./percent|per cento|      extra
+./perhaps-we-are|Forse siamo|      extra
+./perhaps-we-are2|Forse siamo|      extra
+./period|periodo|      extra
+./personnel|Personale|      extra
+./persons-in-path-of|Persone in rotta di collisione con|      extra
+./philadelphia|Philadelphia|      extra
+./phoenix|Pheonix|      extra
+./phonetic/9_p|Niner|      core
+./phonetic/a_p|Ancona|      core
+./phonetic/b_p|Bologna|      core
+./phonetic/c_p|Como|      core
+./phonetic/d_p|Domodossola|      core
+./phonetic/e_p|empoli|      core
+./phonetic/f_p|firenze|      core
+./phonetic/g_p|genova|      core
+./phonetic/h_p|hotel|      core
+./phonetic/i_p|imola|      core
+./phonetic/j_p|jolly|      core
+./phonetic/k_p|Kilo|      core
+./phonetic/l_p|Livorno|      core
+./phonetic/m_p|Milano|      core
+./phonetic/n_p|Napoli|      core
+./busy-hangovers|Siamo tutti impegnati con i postumi di una sbornia.|      extra
+./busy-pls-hold|Tutte le nostre linee sono al momento occupate. Si prega di attendere, un nostro operatore le risponderà appena possibile|      extra
+./but|ma|      extra
+./by|da|      extra
+./bytes|Byte|      extra
+./cafeteria|Bar|      extra
+./california|California|      extra
+./call|Chiamata|      extra
+./call-forward|Deviazione chiamate|      extra
+./call-forwarding|Trasferimento di chiamata|      core
+./call-fwd-cancelled|Deviazione chiamate annullata|      extra
+./call-fwd-no-ans|Inoltro chiamate su non risposto|      core
+./call-fwd-on-busy|Inoltro chiamate su occupato|      core
+./call-fwd-parallel|Inoltro chiamate parallelo|      extra
+./call-fwd-unconditional|Inoltro chiamate sempre|      core
+./call-preempted|Questa chiamata è stata preceduta da un'altra|      extra
+./call-quality-menu|Valuti la qualità della chiamata appena effettuata. Utilizzi i tasti da uno a quattro per indicare la qualità vocale della chiamata, digitando uno per la miglior qualità, e quattro se era molto difficile capire l'interlocutore. Digiti cinque se la chiamata è stata prematuramente interrotta. Digiti sei se la chiamata è stata mai completata. Digiti sette se uno dei canali non poteva essere sentito. Digiti otto se ci fossero altre difficoltà.|      extra
+./call-requres|La chiamata che avete fatto necessita di un ...|      extra
+./call-terminated|chiamata terminata|      extra
+./call-waiting|Avviso di chiamata|      core
+./phonetic/o_p|Otranto|      core
+./phonetic/p_p|Pisa|      core
+./phonetic/q_p|Quadro|      core
+./phonetic/r_p|Roma|      core
+./phonetic/s_p|Savona|      core
+./phonetic/t_p|Torino|      core
+./phonetic/u_p|Udine|      core
+./phonetic/v_p|Verona|      core
+./phonetic/w_p|whisky|      core
+./phonetic/x_p|Ics|      core
+./phonetic/y_p|Y|      core
+./phonetic/z_p|Zorro|      core
+./physics|Fisica|      extra
+./pin-invalid|PIN valido per questa conferenza.|      extra
+./pin-number-accepted|PIN Accettato|      extra
+./ping|ping|      extra
+./pin_number|Il suo PIN|      extra
+./pipe|tubo|      extra
+./planning|Pianificazione|      extra
+./please-answer-the-following|Si prega di rispondere alla seguente ...|      extra
+./please-contact-tech-supt|Si prega di contattare il supporto tecnico|      extra
+./please-enter-first-three-letters|inserisca le prime tre lettere del nome o del cognome della persona desiderata.|      extra
+./please-enter-the|Si prega di inserire il|      extra
+./please-enter-your|inserisca il suo|      extra
+./please-hang-up-and-dial-operator|Si prega di riagganciare e contattare il centralino.|      extra
+./please-hang-up-and-try-again|La preghiamo di riagganciare e riprovare.|      extra
+./please-hold-minion-connect|La preghiamo di restare in linea mentre i miei minions cercano di connettere la sua chiamata|      extra
+./please-hold-while-minion|La preghiamo di attendere mentre trovo un minion per rispondere alla sua chiamata|      extra
+./please-try|riprovi|      extra
+./please-try-again|La preghiamo di riprovare|      core
+./please-try-again-later|La preghiamo di riprovare più tardi. Grazie.|      extra
+./please-try-call-later|Si prega di riprovare la vostra chiamata più tardi|      core
+./please-wait-connect-oncall-eng|La preghiamo di attendere in linea. Cercheremo di collegarla al nostro supporto tecnico.|      extra
+./pls-ent-num-transfer|Si prega di digitare il numero da utilizzare per il trasferimento di chiamata|      extra
+./pls-enter-conf-password|Si prega di digitare la password della conferenza|      extra
+./pls-enter-num-message-after-tone|inserisca il suo messaggio numerico dopo il segnale acustico.|      extra
+./pls-enter-vm-password|Si prega di inserire la password per la casella vocale|      extra
+./pls-entr-num-uwish2-call|Si prega di inserire il numero che si desidera chiamare|      extra
+./pls-hold-process-tx|Si prega di attendere mentre elaboriamo la sua richiesta.|      extra
+./pls-hold-silent30|La preghiamo di attendere|      extra
+./pls-hold-while-try|La preghiamo di attendere mentre cerchiamo di collegarla.|      core
+./pls-listen-options-changed|La preghiamo di ascoltare attentamente perché le opzioni del menu sono cambiate|      extra
+./pls-lv-msg-will-contact|La preghiamo di lasciare un messaggio dopo il segnale acustico, un operatore la contatterà al più presto possibile.|      extra
+./pls-rcrd-name-at-tone|La preghiamo di registrare il proprio nome dopo il segnale acustico.|      extra
+./pls-stay-on-line|Si prega di rimanere in linea, le risponderà il primo operatore disponibile.|      extra
+./pls-try-again|Riprovi|      extra
+./pls-try-area-code|riprovare il prefisso|      extra
+./pls-try-call-later|Si prega di riprovare la vostra chiamata più tardi|      extra
+./pls-try-manually|Si prega di provare manualmente.|      extra
+./pls-wait-connect-call|Si prega di attendere  mentre colleghiamo la sua chiamata.|      extra
+./plugh| extra
+./pm-announcement-number|Avviso numero|      extra
+./pm-invalid-option|L'opzione non è valida. Riprovi.|      core
+./pm-phrase-management|Gestione frase.|      extra
+./pm-prompt-number|Richiesta numero|      extra
+./pm-to-record-phrase|Per registrare una frase|      extra
+./pm-to-review-phrase|Per rivedere una frase|      extra
+./point|Punto|      extra
+./pop|POP|      extra
+./port|porto|      extra
+./portland|Portland|      extra
+./portnumber|numero di porta|      extra
+./position|posizione|      extra
+./post-entry-pound|Digiti il numero del suo account, saltando qualsiasi punteggiatura,  seguito dal tasto cancelletto.|      extra
+./pounds|Sterline|      extra
+./presales-support|Supporto prevendita|      extra
+./presidents-office|Ufficio presidente|      extra
+./press|Dìgiti|      extra
+./press-0|DIgiti 0|      extra
+./press-1|Digiti 1|      extra
+./press-2|Digiti 2|      extra
+./press-3|Digiti 3|      extra
+./press-4|Digiti 4|      extra
+./press-5|Digiti 5|      extra
+./press-6|Digiti 6|      extra
+./press-6-to-eject|oppure digiti 6 per espellere l'ultimo utente.|      extra
+./press-7|Digiti 7|      extra
+./press-8|Digiti 8|      extra
+./press-9|Digiti 9|      extra
+./press-button-again|prema di nuovo il pulsante!|      extra
+./press-enter|digiti Invio|      extra
+./press-escape|digiti Esc|      extra
+./press-hash|digiti cancelletto|      extra
+./press-or-say-0|Digiti o dica zero|      extra
+./press-or-say-1|Digiti o dica 1|      extra
+./press-or-say-2|Digiti o dica 2|      extra
+./press-or-say-3|Digiti o dica 3|      extra
+./press-or-say-4|Digiti o dica 4|      extra
+./press-or-say-5|Digiti o dica 5|      extra
+./press-or-say-6|Digiti o dica 6|      extra
+./press-or-say-7|Digiti o dica 7|      extra
+./press-or-say-8|Digiti o dica 8|      extra
+./press-or-say-9|Digiti o dica 9|      extra
+./press-pound|Digiti cancelletto|      extra
+./press-pound-save-changes|digiti cancelletto per salvare le modifiche.|      extra
+./press-pound-to-login-star-to-hangup|digiti cancelletto per accedere alla casella vocale  o asterisco per scollegare.|      extra
+./press-return|digiti Invio|      extra
+./press-star|Digiti asterisco|      extra
+./press-star-cancel|digiti asterisco per annullare.|      extra
+./press-the-space-bar|digiti la barra spaziatrice|      extra
+./press-tilde|Digiti tilde|      extra
+./pressure|pressione|      extra
+./press_pound_hash|Digiti cancelletto|      extra
+./press_pound_hash_key|Digiti il tasto cancelletto|      extra
+./prime_number|Per procedere, si prega di digitare un numero primo di 7 cifre, seguito dal tasto cancelletto.|      extra
+./printing|Stampa|      extra
+./priv-callee-options|Digiti 1 se desidera accettare direttamente questa chiamata ora e in futuro. Digiti 2 se desidera trasferire la chiamata alla casella vocale ora e in futuro. Digiti 3 per trasferire la chiamata al menu di tortura ora e in futuro. Digiti 4 per trasferire la chiamata al menu educato non chiamare ora e in futuro. Digiti 5 per accettare la chiamata in futuro, ma trasferirla alla casella vocale solo per questa volta.|      core
+./priv-callpending|Ha una chiamata in attesa da|      core
+./priv-introsaved|Grazie. La preghiamo di attendere in linea mentre tentiamo di collegarla con la persona desiderata.|      core
+./priv-recordintro|La preghiamo di dire il suo nome dopo il segnale acustico.|      core
+./privacy-blacklisted|Inserito in lista nera|      extra
+./privacy-blocked|Bloccato|      extra
+./privacy-if-error|Se ritiene che questo sia un errore ...|      extra
+./privacy-if-error-leave-message-or-hangup|Se crede che questo sia un errore, o non giustificato, si prega di lasciare un messaggio dopo il segnale acustico. In caso contrario si prega di riagganciare ora.|      extra
+./privacy-if-sales-call-contact-in-writing|Se questo fosse un sistema di vendita non richiesto o una chiamata di marketing, si prega di notare che vogliamo essere contattati solo per iscritto.|      extra
+./privacy-incorrect|Siamo spiacenti ma il numero non è valido|      core
+./privacy-last-caller-was|L'ultima chiamata è stata ...|      extra
+./privacy-not|Non|      extra
+./privacy-please-dial|Si prega di digitare ...|      extra
+./privacy-please-stay-on-line-to-be-connected|Si prega di rimanere in linea per essere collegati.|      extra
+./privacy-prompt|Digiti il Suo numero di telefono iniziando dal prefisso.|      core
+./privacy-restricted-by-req|Limitato su richiesta dell'utente.|      extra
+./privacy-screening-unidentified-calls|A causa del grande numero di chiamate non richieste che riceviamo, stiamo analizzando tutte le chiamate in entrata con ID chiamante non disponibile o nascosto.|      extra
+./privacy-stop-calling-not-welcome|La preghiamo di smettere di chiamare. Non siete benvenuti qui.|      extra
+./privacy-stop-calling-not-welcome2|La preghiamo di smettere di chiamare. Non siete benvenuti qui.|      extra
+./privacy-thankyou|Grazie.|      core
+./privacy-this-number-is|Questo numero è ...|      extra
+./privacy-to-blacklist-last-caller|L'ultima chiamata è stata ...|      core
+./privacy-to-blacklist-this-number|Per inserire nella lista nera questo numero...|      extra
+./privacy-to-hear-our-contact-details|per ascoltare i nostri recapiti|      extra
+./privacy-to-whitelist-last-caller|Per inserire in vuait list l'ultimo chiamante ...|      extra
+./privacy-to-whitelist-this-number|Per inserire in vuait list questo numero...|      extra
+./privacy-unident|L'interno che sta tentando di raggiungere non accetta le chiamate non identificate.|      core
+./privacy-whitelisted|Inserito nella lista bianca|      extra
+./privacy-you-are-blacklisted|Lei è stato inserito nella lista nera di questo sistema.|      extra
+./privacy-you-are-calling-from|Lei sta chiamando da...|      extra
+./privacy-your-callerid-is|Il vostro numero di telefono è ...|      extra
+./product|Prodotto|      extra
+./production|Produzione|      extra
+./projects|Progetti|      extra
+./prompt-not-found|Il file di richiesta non è stato trovato|      extra
+./protocol|protocollo|      extra
+./public-relations|Relazioni con il Pubblico|      extra
+./purchasing|Acquisti|      extra
+./purposes|Fini|      extra
+./q-dot-931|Q.931|      extra
+./q-dot-9thirty1|Q.9-trentuno|      extra
+./quality-assurance|Garanzia di qualità|      extra
+./quality-control|Controllo qualità|      extra
+./quality_control|Controllo della Qualità|      extra
+./quarter|trimestre|      extra
+./queue-callswaiting|In attesa di parlare con un operatore|      core
+./queue-holdtime|Il tempo di attesa stimato è attualmente|      core
+./queue-less-than|inferiore a|      core
+./queue-minute|minuto|      core
+./queue-minutes|minuti|      core
+./queue-periodic-announce|Tutti i nostri operatori sono attualmente occupati. La preghiamo di rimanere in attesa. Un nostro operatore le risponderà appena possibile.|      core
+./queue-quantity1|Attualmente  ci sono più di|      core
+./queue-quantity2|chiamate in attesa di parlare con un operatore.|      core
+./queue-reporthold|Tempo di attesa|      core
+./queue-seconds|Secondi|      core
+./queue-thankyou|Grazie per la vostra pazienza|      core
+./queue-thereare|È in attesa con il numero|      core
+./queue-youarenext|La sua chiamata sarà la prossima ad essere collegata con il primo operatore disponibile.|      core
+./quickly|velocemente|      extra
+./quote|citare|      extra
+./race|Corsa|      extra
+./rain|pioggia|      extra
+./rainfall|Pioggia|      extra
+./rainy|piovosa|      extra
+./Randulo-allison|Allison|      extra
+./range|Gamma|      extra
+./reassigned-new-areacode|è stato riassegnato ad un altro prefisso locale|      extra
+./rebates|Sconti|      extra
+./received|ricevuto|      extra
+./receiving|Ricevente|      extra
+./reception|Ricezione|      extra
+./recorded|registrati|      extra
+./registrar|Registro|      extra
+./regret_not_saved|Siamo spiacenti di informarla che il suo messaggio non è stato salvato.|      extra
+./remote-already-in-this-mode|telecomando è già in questa modalità.|      extra
+./remote-already-in-this-mode-2|Il telecomando è già in questa modalità.|      extra
+./remote-base|Base remota|      extra
+./removed|rimosso.|      core
+./repair|Riparazione|      extra
+./repeat-only|Ripetere Solo|      extra
+./repeater|Ripetitore|      extra
+./repeat_pin|Stiamo per ripeterle il suo PIN. Pensiamo che abbia detto...|      extra
+./research|Ricerca|      extra
+./research-and-development|Ricerca &amp; Sviluppo|      extra
+./reservations|Prenotazioni|      extra
+./restarting|Ripresa|      extra
+./rhode-island|Rhode Island|      extra
+./right-bracket|parentesi quadra chiusa|      extra
+./rising|in aumento|      extra
+./risk-management|Gestione dei rischi|      extra
+./roaming|Roaming|      extra
+./room-service|Servizio in camera|      extra
+./route-sip|La chiamata viene instradata su SIP.|      extra
+./rqsted-wakeup-for|ha richiesto una sveglia per ...|      extra
+./calling|chiamata|      core
+./calls|chiamate|      extra
+./calls-taken-by|le chiamate vengono prese da|      extra
+./calls-waiting-for-rep|chiamate in attesa di parlare con un operatore|      extra
+./campground-office|Campeggio|      extra
+./cancelled|Annullato|      core
+./cannot-complete-as-dialed|La sua chiamata non può essere effettuata come digitata.|      core
+./cannot-complete-network-error|La chiamata non può essere completata a causa di un errore di rete.|      extra
+./cannot-complete-otherend-error|La chiamata non può essere completata a causa di un errore nel fornitore di telefonia del numero chiamato.|      extra
+./cannot-complete-temp-error|La chiamata non può essere completata a causa di un errore temporaneo|      extra
+./card-balance-is|saldo della carta è|      extra
+./card-is-invalid|la carta non è valida|      extra
+./card-number|numero di carta|      extra
+./carried-away-by-monkeys|Nessuno è disponibile per ricevere la sua chiamata in questo momento. Sono stati portati via tutti dalle scimmie.|      extra
+./cause-code|Codice causale|      extra
+./cc-amex|American Express|      extra
+./cc-discover|Discover|      extra
+./cc-mastercard|Mastercard|      extra
+./cc-visa|Visa|      extra
+./celsius|celsius|      extra
+./sacramento|Sacramento|      extra
+./said_hold_on|Ho detto, ATTENDA!|      extra
+./saint-louis|St. Louis|      extra
+./sales|Vendite|      extra
+./sales-floor|Piano di vendita|      extra
+./saleshell|Prego lasciare un messaggio dopo il segnale acustico, se è una vendita prego premere 5 adesso|      extra
+./san-antonio|San Antonia|      extra
+./san-diego|San Diego|      extra
+./san-francisco|San Francisco|      extra
+./san-jose|San Jose|      extra
+./save-announce-press|Per salvare questo annuncio  digiti|      extra
+./say-temp-msg-prs-pound|Dica il suo messaggio temporaneo e quindi digiti il tasto cancelletto|      extra
+./says-thats-stupid|dice che è una cosa molto stupida da fare.|      extra
+./scattered|dispersi|      extra
+./sciences|Scienza|      extra
+./screen-callee-options|Sono disponibili le seguenti opzioni|      core
+./seattle|Seattle|      extra
+./second|secondo|      extra
+./seconds|secondi|      core
+./secretary|Segretaria|      extra
+./security|Sicurezza|      extra
+./self-destruct|Auto distruzione|      extra
+./self-destruct-in|Questo sistema si autodistruggerà entro ..|      extra
+./sendhelp|Grazie per aver chiamato. La vostra posizione è stata identificata e una squadra SWAT è stata spedita da voi. Non sono richieste ulteriori azioni da parte vostra. Sarete recuperati in breve tempo.|      extra
+./server|Server|      extra
+./service|Servizio|      extra
+./service-not-implemented|Questo servizio non è implementato.|      extra
+./seventeenth|diciassettesimo|      extra
+./seventh|settimo|      extra
+./seventieth|settantesimo|      extra
+./severe|grave|      extra
+./shall-i-try-again|Dobbiamo riprovare?|      extra
+./shiny-brass-lamp|C'è una lampada di Aladino nelle vicinanze.|      extra
+./shipping|Spedizione|      extra
+./shop|Negozio|      extra
+./show-office|Mostra Ufficio|      extra
+./sighted|avvistato|      extra
+./silence/1| core
+./silence/10| core
+./silence/2| core
+./silence/3| core
+./silence/4| core
+./silence/5| core
+./silence/6| core
+./silence/7| core
+./silence/8| core
+./silence/9| core
+./simplex|Simplex|      extra
+./simul-call-limit-reached|Limite chiamate simultanee raggiunto|      core
+./SIP_Test_Failure|Continua a lavorarci sciocco!|      extra
+./SIP_Test_Success|Il vostro test ha avuto successo e il dispositivo SIP che state cercando di sistemare ha funzionato. Godetevi il lavoro fino a quando non si romperà qualcos'altro.|      extra
+./sixteenth|sedicesimo|      extra
+./sixth|sesto|      extra
+./sixtieth|sessantesimo|      extra
+./sleet|nevischio|      extra
+./sleeting|nevischia|      extra
+./slow|lento|      extra
+./slowly|lentamente|      extra
+./snow|neve|      extra
+./snowing|nevica|      extra
+./snowy|innevato|      extra
+./software|software|      extra
+./someone-you-trust1|Una persona di cui ti fidi è uno di noi.|      extra
+./someone-you-trust2|Una persona di cui ti fidi è uno di noi.|      extra
+./someone-you-trust3|Una persona di cui ti fidi è uno di noi.|      extra
+./something-terribly-wrong|C'è qualcosa di terribilmente sbagliato!|      core
+./sorry|Siamo spiacenti|      core
+./sorry-cant-let-you-do-that|Ci dispiace  non possiamo lasciartelo fare.|      extra
+./sorry-cant-let-you-do-that2|Ci dispiace  non possiamo lasciartelo fare.|      extra
+./sorry-cant-let-you-do-that3|Ci dispiace  non possiamo lasciartelo fare.|      extra
+./sorry-mailbox-full|Siamo spiacenti  ma la cassetta postale dell'utente non può accettare altri messaggi.|      extra
+./sorry-youre-having-problems|Siamo spiacenti che stia avendo problemi|      core
+./sorry2|Siamo spiacenti  ma non siamo in grado di rispondere alla sua chiamata in questo momento.|      extra
+./sorrydave|Mi spiace Dave. Purtroppo non posso farlo.|      extra
+./sorry_caller_number|Mi dispiace dirle che lei è attualmente il numero chiamante|      extra
+./sorry_didnt_get|Siamo spiacenti, ma non abbiamo capito.|      extra
+./sorry_didnt_quite_get|Siamo spiacenti, ma non abbiamo proprio capito.|      extra
+./sorry_login_incorrect|Spiacente. Login errato. Prego riprovare|      extra
+./sorry_missed|Siamo spiacenti, ma non abbiamo capito.|      extra
+./sorry_no_messages|Spiacente, non ci sono altri messaggi. Ogni vostro desiderio è un ordine. Completamente|      extra
+./south|meridionale|      extra
+./south-carolina|Carolina del Sud|      extra
+./south-dakota|South Dakota|      extra
+./southerly|verso sud|      extra
+./spam|Grazie per aver chiamato Analisi dei prezzi e Marketing. Per vallium generico,  Xanex o Viagra a buon prezzo, digiti 1. Per le repliche Gucci e Rolex, digiti 2. Per ingrandire il pene o il seno, digiti 3. Per parlare con il ministero delle Finanze di Nigera al riguardo di un conto di cinquanta milioni di dollari, digiti 4.|      extra
+./spam2|Spam|      extra
+./speak-louder|Si prega di parlare forte e chiaro per garantire una miglior qualità della registrazione.|      extra
+./speak-louder-into-phone|Si prega di parlare più forte  o parlare direttamente nel telefono per garantire una registrazione chiara.|      extra
+./speak-to-the-operator|parlare con l'operatore|      extra
+./speed|velocità|      extra
+./speed-dial|Chiamata rapida|      core
+./speed-dial-empty|Il numero breve digitato non è valido.|      core
+./splat|Macchia|      extra
+./spy-agent|Operatore|      core
+./spy-console|Console|      core
+./spy-dahdi|DAHDI|      core
+./spy-h323|H323|      core
+./spy-iax|IAX|      core
+./spy-iax2|IAX|      core
+./spy-jingle|Jingle|      core
+./spy-local|Locale|      core
+./spy-mgcp|MGCP|      core
+./spy-misdn|M I S D N|      core
+./spy-mobile|Bluetooth per cellulare|      core
+./spy-nbs|N B S|      core
+./spy-sip|SIP|      core
+./spy-skinny|Magro|      core
+./spy-unistim|UNIStim|      core
+./spy-usbradio|Radio USB|      core
+./spy-zap|Zap|      core
+./ss-noservice|Il numero selezionato è inesistente o momentaneamente fuori servizio. La preghiamo di riprovare più tardi.|      core
+./ssh|SSH|      extra
+./staff|Personale|      extra
+./staffing|assunzione di personale|      extra
+./standard|standard|      extra
+./star-for-menu-again|Digiti asterisco per riascoltare questo menu.|      extra
+./starting-with-either|che inizia con|      extra
+./station|stazione|      extra
+./status|stato|      extra
+./step-in-stream|Avete un passo nel torrente, ma l'acqua è andata avanti.|      extra
+./sterling|sterlina|      extra
+./still_on_phone|è ancora al telefono. Jeepers. Chatty Cathy!|      extra
+./store-accounting|Conservare Accounting|      extra
+./storm|tempesta|      extra
+./sun|sole|      extra
+./sunny|soleggiato|      extra
+./support|Supporto|      extra
+./sure_help|Sicuramente vi posso aiutare|      extra
+./swap|scambiare|      extra
+./system|Sistema|      extra
+./system-crashed|Il sistema è andato in crash|      extra
+./system-status-msg|Si prega di ascoltare attentamente il seguente messaggio di stato del sistema.|      extra
+./systems|Sistemi|      extra
+./T-changed-to|è stata modificata per|      extra
+./T-is-not-available|non è disponibile|      extra
+./T-to-disable-ancmnt|per disabilitare questo annuncio|      extra
+./T-to-enable-ancmnt|per abilitare questo annuncio|      extra
+./T-to-hear-cur-ancmnt|per ascoltare l'annuncio attuale|      extra
+./T-to-leave-msg|per lasciare un messaggio|      extra
+./T-to-reach-main-office|per raggiungere la sede principale|      extra
+./T-to-rec-ancmnt|per registrare nuovamente questo annuncio|      extra
+./T-to-rtrn-to-main-menu|per tornare al menu principale|      extra
+./talking-to-myself|Sto parlando con me stesso?|      extra
+./talkin_me|Stai parlando con me?|      extra
+./target-attendant|Destinazione|      extra
+./tcp|TCP|      extra
+./technical-support|Assistenza tecnica|      extra
+./telemarketercalling|Sono state denunciate chiamate di telemarketing provenienti dal vostro numero|      extra
+./telephone-in-your-pocket|Oooo! è un telefono quello che hai in tasca, o sei solo felice di vedermi?|      extra
+./telephone-in-your-pocket2|Oooo! è un telefono quello che hai in tasca, o sei solo felice di vedermi?|      extra
+./telephone-number|Numero di telefono|      core
+./telesales|Televendite|      extra
+./teletubbie-murder|è stato brutalmente assassinato e mutilato dai Teletubbies.|      extra
+./telnet|Telnett|      extra
+./temp-disconnected|è stato temporaneamente disconnesso|      extra
+./temperature|temperatura|      extra
+./tennessee|Tennessee|      extra
+./tenth|decimo|      extra
+./terabits|Terabit|      extra
+./terabytes|Terabyte|      extra
+./terminated|terminato|      extra
+./terminating|terminazione|      extra
+./test-tones-follow|Seguono dei toni di prova.|      extra
+./texas|Texas|      extra
+./thank-you-cooperation|Grazie per la collaborazione.|      extra
+./thank-you-for-calling|Grazie per aver chiamato.|      extra
+./thanks-annoyance|Grazie per la chiamata. Attenda in linea un momento mentre trovo qualcuno da assegnare ai suoi costanti reclami e lamentele|      extra
+./thanks-for-calling-today|Grazie per aver chiamato oggi.|      extra
+./thanks-for-using|Grazie per aver utilizzato|      extra
+./thank_you_calling|Grazie per la chiamata|      extra
+./that-is-not-rec-phn-num|Questo non è un numero di telefono riconosciuto|      extra
+./that-number|questo numero|      extra
+./that-tickles|Oooh  che solletico!|      extra
+./that-you-require|che richiede|      extra
+./the-mailbox|La casella di posta|      extra
+./the-monkeys-twice|Le scimmie! Le scimmie!|      extra
+./the-new-number-is|Il nuovo numero è|      extra
+./the-next|il successivo|      extra
+./the-num-i-have-is|il numero che abbiamo è|      extra
+./the-number-u-dialed|Il numero chiamato|      extra
+./the-party-you-are-calling|L'interno che sta chiamando|      extra
+./the-weather-at|Il tempo a|      extra
+./then-press-pound|quindi digiti cancelletto.|      extra
+./there-are|Ci sono|      extra
+./there-is-no-customer-support|Questa non è l'assistenza clienti.|      extra
+./these-are-currently|questi sono attualmente|      extra
+./third|terzo|      extra
+./thirteenth|tredicesimo|      extra
+./thirtieth|trentesimo|      extra
+./this|questo|      extra
+./this-call-may-be|Questa chiamata può essere|      extra
+./this-call-may-be-monitored-or-recorded|Questa chiamata può essere monitorata o registrata|      extra
+./this-call-will-cost|Questa chiamata costerà ...|      extra
+./this-call-will-end-in|Questa chiamata si concluderà nel|      extra
+./this-is-the-voice-mail-system|Questo è il sistema di casella vocale|      extra
+./this-is-yr-wakeup-call|Questa è la sua sveglia|      extra
+./thnk-u-for-patience|grazie per la vostra pazienza|      extra
+./thousandth|millesimo|      extra
+./through|Attraverso|      extra
+./thunderstorm|temporale|      extra
+./cent|Centesimo|      extra
+./central|centrale|      extra
+./cents|Centesimi|      extra
+./cents-per-minute|Centesimi al minuto|      extra
+./ceo-office|Ufficio dell'amministratore|      extra
+./challenge_try_again|Va bene. Mi piacciono le sfide. Proviamo un'altra volta.|      extra
+./chance-of|possibilità di|      extra
+./changing|cambiando|      extra
+./channel|Canale|      extra
+./channel-insecure-warn|Questa linea non è sicura. Non discutere di informazioni confidenziali, se necessario, utilizzate frasi in codice.|      extra
+./channel-secure|Questa linea è sicura.|      extra
+./charlotte|Charlotte|      extra
+./chat-room|stanza chat|      extra
+./check-number-dial-again|Si prega di verificare il numero e riprovare.|      core
+./chemistry|Chimica|      extra
+./chicago|Chicago|      extra
+./chris|Cristian|      extra
+./claims|Reclami|      extra
+./clear|cancellare|      extra
+./clearing|cancellando|      extra
+./tide|marea|      extra
+./time|tempo|      core
+./times|tempi|      extra
+./timewarp|A causa della temporanea presenza di una distorsione temporale nelle vicinanze, nessuno sarà qui per risponderle almeno per il prossimo secolo. La preghiamo di lasciare un messaggio dopo il segnale acustico, e noi risponderemo almeno un mese prima della sua chiamata. Grazie e buona giornata.|      extra
+./to-accept-recording|per accettare questa registrazione|      extra
+./to-be-called-back|Per essere richiamato quando un operatore sarà disponibile  digiti|      extra
+./to-blklist-last-caller|Per mettere in lista nera l'ultimo numero chiamante digiti|      extra
+./to-blklist-last-num|Per mettere in lista nera l'ultimo numero, digiti|      extra
+./to-call-num-press|Per chiamare questo numero  digiti ...|      extra
+./to-call-prson-w-sent-msg|per chiamare la persona che ha inviato questo messaggio|      extra
+./to-call-this-number|per chiamare questo numero|      core
+./to-cancel-this-msg|per cancellare questo messaggio|      extra
+./to-cancel-wakeup|Per annullare una sveglia ...|      extra
+./to-change-exp-date|per modificare la data di scadenza|      extra
+./to-change-your-pin-number|Per cambiare il codice PIN|      extra
+./to-collect-voicemail|per ascoltare i messaggi vocali|      extra
+./to-compose-a-message|per comporre un messaggio|      extra
+./to-confirm-wakeup|Per confermare la sveglia|      extra
+./to-dial-by-name|Per comporre per nome ...|      extra
+./to-dial-by-name-press|per comporre per nome, digiti|      extra
+./to-enter-a-diff-number|per inserire un numero diverso|      extra
+./to-enter-a-number|per inserire un numero|      extra
+./to-erase-yr-temp-grtg|per cancellare il messaggio di saluto temporaneo|      extra
+./to-extension|l'interno|      core
+./to-hang-up|Per riagganciare|      extra
+./to-hang-up-2|Per riagganciare|      extra
+./to-hear-callerid|Per ascoltare l'identificativo chiamante dell'ultima chiamata|      extra
+./to-hear-menu-again|per sentire di nuovo questo menu|      extra
+./to-hear-msg-again|per sentire ancora questo messaggio.|      extra
+./to-hear-msg-envelope|per ascoltare le informazioni relative al messaggio|      extra
+./to-hear-net-status|per conoscere lo stato corrente della rete  ...|      extra
+./to-hear-weather-status|per ascoltare il meteo|      extra
+./to-hear-your-account-balance|Per ascoltare il saldo del conto|      extra
+./to-join-a-meeting|per partecipare a una riunione|      extra
+./to-leave-message-for|Per lasciare un messaggio per|      extra
+./to-listen-to-it|per ascoltarlo|      core
+./to-log-in-to-voice-mail|Per accedere alla casella vocale|      extra
+./to-place-outgoing-call|per fare una chiamata in uscita|      extra
+./to-reach-first-rep|Per raggiungere il primo operatore disponibile|      extra
+./to-reach-operator|Per raggiungere l'operatore|      extra
+./to-rec-yr-temp-grtg|per registrare un saluto temporaneo|      extra
+./to-record-call|per registrare chiamate|      extra
+./to-redial-the-last-number-you-called|Per ricomporre l'ultimo numero chiamato|      extra
+./to-report-emergency|Per segnalare un'emergenza ...|      extra
+./to-report-system-network-down|Per segnalare un disservizio di sistema o di rete|      extra
+./to-rerecord-announce|Per registrare nuovamente questo annuncio, digitate|      extra
+./to-rerecord-it|per ri-registrarlo|      core
+./to-rerecord-yr-message|per ri-registrare il messaggio|      extra
+./to-rmv-num-blklist|Per eliminare un numero dalla lista nera, digitare|      extra
+./to-rqst-wakeup-call|Per richiedere una sveglia|      extra
+./to-send-a-reply|per inviare una risposta|      extra
+./to-snooze-for|Per posporre per ...|      extra
+./to-use-def-attendant|per utilizzare l'assistente di default, deve solo digitare cancelletto|      extra
+./tomorrow-night|domani-sera|      extra
+./tones-that-follow-are-for-the-deaf|I toni che seguono sono per i non udenti.|      extra
+./tone_time|Al segnale acustico, saranno esattamente le ore:|      extra
+./tonight|stanotte|      extra
+./too-low|troppo bassa|      extra
+./tornado|tornado|      extra
+./touchtone1|Se sta chiamando da un telefono a rotella, riagganci e vada in un negozio di telefonia a comprare una di quelle nuove invenzioni chiamata telefono a toni.|      extra
+./touchtone2|E se sta chiamando da un telefono a rotella, allora ciao! Esiste una cosa chiamata telefono a toni. Vedi di informarti.|      extra
+./touchtone3|Se stai chiamando da un telefono a rotella, riaggancia, e riprova dopo aver acquistato una di quelle invenzioni del ventunesimo secolo chiamate telefono a toni.|      extra
+./towards|nei confronti di|      extra
+./trading-desk|Trading Desk|      extra
+./traffic|Traffico|      extra
+./training|allenamento|      extra
+./transfer|Per favore attenda in linea mentre proviamo quell'estensione.|      core
+./transfer_to_agent|Penso dovrei trasferirla ad un operatore. Attenda in linea|      extra
+./transportation|Trasporti|      extra
+./travel|Viaggiare|      extra
+./treasury|Tesoro|      extra
+./tt-allbusy|Tutti i operatori della famiglia stanno attualmente assistendo altri operatori. Si prega di rimanere in attesa e la sua chiamata sarà risposta nell'ordine in cui è arrivata.|      core
+./tt-codezone|Questa strada porta alla punta ombrosa della realtà|      extra
+./tt-codezone_MIXDOWN|Questa strada porta alla punta ombrosa della realtà|      extra
+./tt-hangup|Digiti 1 per terminare questa chiamata  o qualsiasi altro tasto per riagganciare.|      extra
+./tt-monkeys| core
+./tt-monkeysintro|Sono stati portati via dalle scimmie.|      core
+./tt-monty-knights|Tua madre era un criceto e Tuo padre puzzava di bacche di sambuco. Ora vai via o ti farò schernire una seconda volta.|      extra
+./tt-somethingwrong|C'è qualcosa di terribilmente sbagliato.|      core
+./tt-weasels|Delle donnole hanno mangiato il nostro sistema telefonico|      core
+./tucson|Tuscon|      extra
+./tulsa|Tulsa|      extra
+./turn-off-recording|per disattivare la registrazione delle chiamate|      extra
+./turning-to|rivolgendosi a|      extra
+./twelveth|dodicesima|      extra
+./twentieth|ventesimo|      extra
+./twisty-maze|Sei in un labirinto di tortuosi piccoli menù, tutti uguali.|      extra
+./tx-has-been-approved|La transazione è stata approvata.|      extra
+./typhoon|tifone|      extra
+./udp|UDP|      extra
+./uh-oh1|Oh Oh|      extra
+./uh-oh2|Oh Oh!|      extra
+./uk|UK|      extra
+./unavailable|Non disponibile|      extra
+./unconditional|incondizionato|      extra
+./unicorn_blood|Asterisk è una completa piattaforma PBX e IVR open source che gira sul sistema operativo Linux e un po' di sangue di unicorno. Per maggiori informazioni visiti asterisk punto org.|      extra
+./unicorn_blood_MIXDOWN|Asterisk è una completa piattaforma PBX e IVR open source che gira sul sistema operativo Linux e un po' di sangue di unicorno. Per maggiori informazioni visiti asterisk punto org|      extra
+./unidentified-no-callback|sconosciuto o non identificato e quindi non può essere richiamato|      core
+./units|Unità|      extra
+./unix|Unix|      extra
+./unwelcomecall|La sua chiamata non è gradita.|      extra
+./up|su|      extra
+./uppercase|maiuscola|      core
+./uptime|tempo di attività|      extra
+./user|utente|      extra
+./users|utenti|      extra
+./utah|Utah|      extra
+./variable|variabile|      extra
+./vermont|Vermont|      extra
+./virginia|Virgina|      extra
+./virginia-beach|Virginia Beach|      extra
+./visibility|Visibilità|      extra
+./visit-asterisk-website|Visitate il sito Web all'indirizzo vu vu vu punto asterisk punto org|      extra
+./vm-advopts|digiti 3 per le opzioni avanzate|      core
+./vm-and|e|      core
+./vm-calldiffnum|Digiti 2 per immettere un numero diverso|      core
+./vm-changeto|In quale cartella passare?|      core
+./vm-Cust1|cartella 5|      core
+./vm-Cust2|cartella 6|      core
+./vm-Cust3|cartella 7|      core
+./vm-Cust4|cartella 8|      core
+./vm-Cust5|cartella 9|      core
+./vm-delete|Digiti 7 per cancellare questo messaggio.|      core
+./vm-deleted|Messaggio cancellato.|      core
+./vm-dialout|Per favore attenda che connettiamo la chiamata|      core
+./vm-duration|Questo messaggio, dura|      core
+./vm-enter-num-to-call|Si prega di digiti il numero che si desidera chiamare|      core
+./vm-extension|interno|      core
+./vm-Family|famiglia|      core
+./vm-first|primo|      core
+./vm-for|per|      core
+./vm-forward|digiti 1 per immettere un interno, digiti 2 per utilizzare la directory|      core
+./vm-forward-multiple|digiti 1 per inviare questo messaggio, o 2 per aggiungere un altro destinatario.|      core
+./vm-forwardoptions|digiti 1 per anteporre un messaggio, o 2 per inoltrare il messaggio senza anteporre nulla|      core
+./vm-Friends|amici|      core
+./vm-from|da|      core
+./vm-from-extension|messaggio dall'interno|      core
+./vm-from-phonenumber|messaggio dal numero|      core
+./vm-goodbye|Arrivederci|      core
+./vm-helpexit|Digiti asterisco per aiuto o cancelletto per uscire.|      core
+./vm-INBOX|Non ascoltati|      core
+./vm-incorrect|Login non corretto.|      core
+./vm-incorrect-mailbox|Login non corretto. Digiti l'interno.|      core
+./vm-instructions|Per esaminare i messaggi digiti 1 ora. Potete uscire dalla casella vocale in qualsiasi momento premendo il tasto cancelletto.|      core
+./vm-intro|Lasciate un messaggio dopo il segnale acustico. Quando fatto, riagganciare o digiti il tasto cancelletto.|      core
+./vm-invalid-password|La password non soddisfa i requisiti minimi per questa casella vocale. Riprovare.|      core
+./vm-invalidpassword|Password errata. Riprovare.|      core
+./vm-isonphone|è al telefono|      core
+./vm-isunavail|non è disponibile|      core
+./vm-last|ultimo|      core
+./vm-leavemsg|Digiti 5 per lasciare un messaggio|      core
+./vm-login|Casella vocale. DIgiti il suo Interno|      core
+./vm-mailboxfull|siamo spiacenti ma la casella vocale dell'utente non può accettare altri messaggi|      core
+./vm-marked-nonurgent|Stato 'urgente' rimosso|      core
+./vm-marked-urgent|Messaggio contrassegnato come urgente.|      core
+./vm-message|messaggio|      core
+./vm-messages|messaggi|      core
+./vm-minutes|minuti|      core
+./vm-mismatch|La password che ha inserito e re-inserito non corrispondono. Riprovi.|      core
+./vm-msgforwarded|Il messaggio è stato inoltrato correttamente.|      core
+./vm-msginstruct|Per ascoltare il messaggio successivo digiti 6, per ripetere questo messaggio digiti 5, per ascoltare il messaggio precedente digiti 4, per eliminare o annullare l'eliminazione di questo messaggio digiti 0, per uscire dalla casella vocale digiti cancelletto.|      core
+./vm-msgsaved|Il tuo messaggio è stato salvato.|      core
+./vm-newpassword|Prego inserisca la nuova password, seguita dal tasto cancelletto.|      core
+./vm-newuser|Benvenuti nella casella vocale. In primo luogo io vi guiderò attraverso un breve processo di installazione.|      core
+./vm-next|Digiti 6 per riprodurre il messaggio successivo.|      core
+./vm-no|no|      core
+./vm-nobodyavail|Nessuno è disponibile a rispondere alla sua chiamata in questo momento|      core
+./vm-nobox|Non puo rispondere a questo messaggio perché il mittente non dispone di una casella di posta|      core
+./vm-nomore|Non ci sono più messaggi.|      core
+./vm-nonumber|Temo di non sapere chi ha inviato questo messaggio|      core
+./vm-num-i-have|il numero che ho è|      core
+./vm-nuovi|nuovi|      core
+./vm-nuovo|nuovo|      core
+./vm-Old|salvati|      core
+./vm-onefor|Digiti 1 per|      core
+./vm-onefor-full|digiti uno per ascoltare ...|      core
+./vm-options|Digiti 1 per registrare il messaggio di non disponibile. Digiti 2 per registrare il messaggio di occupato. Digiti 3 per registrare il nome. Digiti 4 per registrare il messaggio temporaneo di saluto. Digiti 5 per modificare la password. Digiti asterisco per tornare al menu principale.|      core
+./vm-opts|digiti 2 per cambiare cartella, digiti 3 per le opzioni avanzate, digiti zero per le opzioni della casella vocale.|      core
+./vm-opts-full|digiti 2 per accedere ai messaggi memorizzati in altre cartelle. digiti 3 per registrare un messaggio per un'altra casella di posta. digiti 0 per i saluti e la gestione delle password.|      core
+./vm-passchanged|Le password sono state modificate.|      core
+./vm-password|password|      core
+./vm-pls-try-again|Si prega di riprovare|      core
+./vm-press|digiti|      core
+./vm-prev|digiti 4 per il messaggio precedente|      core
+./vm-reachoper|digiti 0 per raggiungere un operatore|      core
+./vm-rec-busy|Dopo il segnale acustico registri il suo messaggio di occupato e prema il tasto cancelletto.|      core
+./vm-rec-name|Dopo il segnale acustico dica il suo nome e prema il tasto cancelletto.|      core
+./vm-rec-temp|Dopo il segnale acustico registri il messaggio temporaneo e prema il tasto cancelletto.|      core
+./vm-rec-unv|Dopo il segnale acustico registri il suo messaggio di non disponibile e prema il tasto cancelletto.|      core
+./vm-received|ricevuto|      core
+./vm-record-prepend|Dopo il segnale acustico registri un'introduzione al messaggio inoltrato. Al termine prema il tasto cancelletto.|      core
+./vm-reenterpassword|Si prega di inserire nuovamente la password seguita dal tasto cancelletto.|      core
+./vm-repeat|digiti 5 per ripetere il messaggio corrente.|      core
+./vm-review|digiti 1 per accettare questa registrazione, digiti 2 per riascoltarla, digiti 3 per registrare nuovamente il messaggio|      core
+./vm-review-nonurgent|digiti 4 per rimuovere lo stato di urgente da questo messaggio.|      core
+./vm-review-urgent|Digiti 4 per contrassegnare il messaggio come urgente.|      core
+./vm-saved|salvato|      core
+./vm-savedto|salvato in|      core
+./vm-savefolder|In quale cartella dobbiamo salvare il messaggio?|      core
+./vm-savemessage|o 9 per salvare questo messaggio|      core
+./cleveland|Cleveland|      extra
+./clli|CLLI|      extra
+./close-parenthesis|chiusa parentesi|      extra
+./closed|Chiuso|      extra
+./clouds|nuvole|      extra
+./cloudy|nuvoloso|      extra
+./collections|Collezioni|      extra
+./colorado|Colorado|      extra
+./colorado-springs|Colorado Springs|      extra
+./columbus|Columbus|      extra
+./comedyclub|Grazie per aver chiamato per informazioni la nostra compagnia teatrale. Siamo a disposizione per scoraggiare l'ulteriore diffusione di cattive battute. Prego lasci i suoi riferimenti dopo il segnale acustico.|      extra
+./comma|virgola|      extra
+./communications|Comunicazioni|      extra
+./company-dir-411|Per accedere alla rubrica componga 411 o digiti zero per lasciare un messaggio nella nostra casella vocale generale.|      extra
+./complaint|Lamentela|      extra
+./compliance|Conformità|      extra
+./computer-friend1|Il computer è suo amico.|      extra
+./computer-friend2|Il computer è suo amico.|      extra
+./conditions|condizioni|      extra
+./conf-1-to-list-users|Digiti uno per ascoltare l'elenco delle persone presenti attualmente in conferenza.|      extra
+./vm-saveoper|digiti 1 per accettare questa registrazione, in caso contrario si prega di rimanere in attesa|      core
+./vm-sorry|Siamo spiacenti, non abbiamo capito la sua risposta.|      core
+./vm-star-cancel|digiti asterisco per annullare|      core
+./vm-starmain|digiti asterisco per tornare al menu principale|      core
+./vm-tempgreetactive|Il suo saluto temporaneo è attualmente attivo|      core
+./vm-tempgreeting|digiti 1 per registrare il messaggio di saluto temporaneo|      core
+./vm-tempgreeting2|digiti 1 per registrare il messaggio di saluto temporaneo oppure digiti 2 per cancellare il messaggio di saluto temporaneo|      core
+./vm-tempremoved|È stato rimosso il messaggio di saluto temporaneo|      core
+./vm-then-pound|quindi digiti cancelletto|      core
+./vm-theperson|La persona dell'interno|      core
+./vm-tmpexists|C'è una risposta temporanea  che sovrascrive i vostri saluti standard.|      core
+./vm-tocallback|digiti 2 per chiamare la persona che ha lasciato questo messaggio|      core
+./vm-tocallnum|digiti 1 per chiamare questo numero|      core
+./vm-tocancel|o cancelletto per annullare.|      core
+./vm-tocancelmsg|digiti asterisco per annullare questo messaggio|      core
+./vm-toenternumber|digiti 1 per immettere un numero|      core
+./vm-toforward|digiti 8 per inoltrare il messaggio ad un altro interno|      core
+./vm-tohearenv|digiti 3 per le informazioni relative al messaggio|      core
+./vm-tomakecall|digiti 4 per fare una chiamata|      core
+./vm-tooshort|il suo messaggio è troppo breve|      core
+./vm-toreply|digiti 1 per rispondere|      core
+./vm-torerecord|digiti 3 per registrare nuovamente il messaggio|      core
+./vm-undelete|Digiti 7 per ripristinare il messaggio|      core
+./vm-undeleted|Messaggio ripristinato.|      core
+./vm-unknown-caller|da un chiamante sconosciuto|      core
+./vm-Urgent|urgente|      core
+./vm-vecchi|salvati|      core
+./vm-vecchio|salvato|      core
+./vm-whichbox|Per lasciare un messaggio si prega di inserire un numero di interno.|      core
+./vm-Work|lavoro|      core
+./vm-youhave|Ha|      core
+./voice-mail-system|Sistema di casella vocale|      extra
+./wait-moment|Si prega di attendere un momento|      extra
+./wait-offensive-sounds|Si prega di attendere un momento mentre accedo alla nostra gigantesca libreria di suoni offensivi!|      extra
+./wakeup-call|Sveglia|      extra
+./wakeup-call-cancelled|la vostra sveglia è stata annullata.|      extra
+./wakeup-daily|Sveglia giornaliera|      extra
+./wakeup-for-daily|Per le chiamate di sveglia quotidiana ...|      extra
+./wakeup-for-one-time|Per la sveglia di un giorno|      extra
+./wakeup-onetime|Sveglia per un giorno|      extra
+./walks-into-bar-mail|Un uomo entra in un bar  si siede e ... benvenuti al Cabaret!|      extra
+./warning|avvertimento|      extra
+./was|era|      extra
+./was-last-seen|è stato visto|      extra
+./washington|Washington|      extra
+./washington-dc|Washington  DC|      extra
+./watch|guardare|      extra
+./watson|Siamo spiacenti, la persona che avete raggiunto non si chiama Watson. Saremmo lieti di venirvi in aiuto ma dobbiamo prima andare a prendere i ragazzi all'allenamento di calcio. Vi richiameremo appena possibile.|      extra
+./we-apologize|ci scusiamo|      extra
+./we-dont-have-tech-support|Non abbiamo il supporto tecnico.|      extra
+./weasels-eaten-phonesys|Le donnole hanno mangiato il nostro sistema telefonico|      extra
+./weather|del tempo|      extra
+./weather-station|stazione meteo|      extra
+./web|web|      extra
+./weeks|settimane|      extra
+./welcome|benvenuto|      extra
+./were-sorry|Siamo spiacenti ...|      extra
+./west|ovest|      extra
+./west-virginia|Occidente Virgina|      extra
+./westerly|Westerly|      extra
+./what-are-you-wearing|Cosa indossi?|      extra
+./what-time-it-is|Ha una vaga idea di che ore sono?|      extra
+./what-time-it-is2|Ha una vaga idea di che ore sono?|      extra
+./when-dialing-this-number|Durante la composizione di questo numero ...|      extra
+./who-would-you-like-to-call|Chi vorresti chiamare?|      extra
+./whoareyou|Posso chiedere chi sta chiamando?|      extra
+./why-no-answer-mystery|La sua chiamata è importante, il motivo per cui non abbiamo ancora risposto è un mistero anche per noi.|      extra
+./wichita|Wichita|      extra
+./will-apply|si applicherà|      extra
+./will-expire|scadrà|      extra
+./will-not-expire|non scadrà|      extra
+./will-reflect-charge-of|corrisponderà un costo di|      extra
+./wind|Vento|      extra
+./windows|Windows|      extra
+./windy|ventoso|      extra
+./wisconsin|Wisconsin|      extra
+./wish-to-continue|Si desidera continuare?|      extra
+./wish_command_totally|Le dispiacerebbe se le mostrassi come lo facciamo in Svizzera?|      extra
+./with|con|      core
+./within|all'interno|      extra
+./woo_hoo_call_first|La vostra chiamata è ora la prima della coda, e verrà risposta dal prossimo operatore disponibile.|      extra
+./work|lavoro|      extra
+./wrong-try-again-smarty|Errore, errore, errore. Prova ancora, ragazzo intelligente.|      extra
+./wtng-to-spk-w-rep|in attesa di parlare con un operatore|      extra
+./www-switchboard-com|www.switchboard.com|      extra
+./wx/around|attorno|      extra
+./wx/barometer|barometro|      extra
+./wx/ceiling|soffitto|      extra
+./wx/dew-point|punto di rugiada|      extra
+./wx/falling|caduta|      extra
+./wx/feet|Piedi|      extra
+./wx/foot|piede|      extra
+./wx/gust|raffica di vento|      extra
+./wx/gusting-to|raffiche fino a|      extra
+./wx/gusts|raffiche|      extra
+./wx/gusty|tempestoso|      extra
+./wx/heat-index|Indice del calore|      extra
+./wx/humidity|umidità|      extra
+./wx/inch|pollice|      extra
+./wx/inches|pollici|      extra
+./wx/kilometer|Chilometro|      extra
+./wx/large|largo|      extra
+./wx/meter|metro|      extra
+./wx/mist|nebbia|      extra
+./wx/northeast|nord-est|      extra
+./wx/northwest|nord-ovest|      extra
+./wx/percent|per cento|      extra
+./wx/point|Punto|      extra
+./wx/rising|in aumento|      extra
+./wx/southeast|sud-est|      extra
+./wx/southwest|sud-ovest|      extra
+./wx/steady|costante|      extra
+./wx/temperature|temperatura|      extra
+./wx/wind-chill|vento gelido|      extra
+./wx/winds|venti|      extra
+./wyoming|Wyoming|      extra
+./yeah|Yeah!|      extra
+./year|anno|      extra
+./years|anni|      extra
+./yes-dear|Sì  caro.|      extra
+./yes-dear2|Sì  caro.|      extra
+./you-are-caller-num|sei il numero|      extra
+./you-are-curr-call-num|lei è attualmente il numero|      extra
+./you-can-press|Digiti|      extra
+./you-dialed-wrong-number|Ha digitato il numero sbagliato.|      extra
+./you-entered|ha inserito|      core
+./you-have-dialed|Ha digitato|      extra
+./you-have-reached-a-test-number|Avete raggiunto un numero di test.|      extra
+./you-have-these-options|Sono disponibili le seguenti opzioni.|      extra
+./you-must-first-dial|Per prima cosa è necessario digitare|      extra
+./you-seem-impatient|Sembra impaziente|      extra
+./you-sound-cute|Lei sembra dolce|      extra
+./you-wish-to-join|che desidera unire|      extra
+./your|il suo|      core
+./your-account|Il suo conto|      extra
+./your-msg-has-been-saved|Il suo messaggio è stato salvato|      extra
+./your-msg-is-too-short|il suo messaggio è troppo breve|      extra
+./your-notifications|Le notifiche.|      extra
+./your-req-notification|la sua notifica richiesta.|      extra
+./your-temp-greeting|la sua risposta temporanea|      extra
+./yourcallisimportant|La sua chiamate è importante per noi. È per questo che sentirà lo stesso messaggio di 10 secondi per la prossima mezz'ora, al costo di dodici centesimi al minuto.|      extra
+./yourcallisimpotent|La sua chiamata è impotente per noi.|      extra
+./you_say_yes|Ray, quando qualcuno ti chiede se sei un Dio, tu gli devi dire sì!|      extra
+./zip-code|codice di avviamento postale|      extra
+./zombies|A causa della presenza di Zombi nella zona che avete chiamato, l'ufficio è stato evacuato. Prego lasci un messaggio e noi la richiameremo appena possibile, a meno che non avvenga prima l'apocalisse. In questo caso noi avremo probabilmente altre priorità.|      extra

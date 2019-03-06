@@ -1,0 +1,25 @@
+#!/bin/bash
+
+if [[ ! -z $1 ]] ; then
+    #extract only $1 file
+    GREP='^\./'$1'|'
+else
+    GREP='^\./.*|'
+fi
+
+SAVEIFS=$IFS
+IFS=$(echo -en "\n\b")
+for row in $(grep $GREP text)
+do
+    FILENAME=$(echo $row | cut -d\| -f1)
+    TEXT=$(echo $row | cut -d\| -f2)
+    PACKAGE=$(echo $row | cut -d\| -f3 | awk '{print $1}')
+    if [[ ! -d $PACKAGE ]]; then
+        mkdir $PACKAGE
+    fi
+    curl 'https://texttospeech.googleapis.com/v1/text:synthesize?key=AIzaSyC3IL_4btExuBXw6yRtDxNMnoCUn_PJvkM' -H 'Content-Type:application/json' --data '{"input":{"text":"'$(echo $TEXT | sed "s/\([;\"']\)/\\\\\1/g" )'"}, "voice": {"languageCode":"it-IT", "name":"it-IT-Wavenet-A", "ssmlGender":"FEMALE"}, "audioConfig": {"audioEncoding":"LINEAR16"} }' | jq -r '.audioContent' | base64 --decode > $PACKAGE/$FILENAME 
+
+    echo -e "$PACKAGE $FILENAME\t$TEXT"
+
+done
+IFS=$SAVEIFS
