@@ -1006,6 +1006,7 @@
 ./no-longer-in-service|non è più in servizio|      extra
 ./no-reply-no-mailbox|Non può rispondere a questo messaggio perché il mittente non dispone di una casella di posta|      extra
 ./no-route-exists-to-dest|Nessuna linea di uscita per il numero composto|      extra
+./no-valid-responce-transfering|Non abbiamo ricevuto una risposta valida, attendere mentre connettiamo la chiamata|      extra
 ./nobody-but-chickens|Nessuno qui ma noi polli!|      extra
 ./node|nodo|      extra
 ./none_of_my_business1|non è disponibile. Non ho idea di cosa stiano combinando. Non sono affari miei!|      extra
