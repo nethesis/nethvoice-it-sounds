@@ -1,18 +1,4 @@
-# get all asterisk sounds text from web pages
-wget https://www.asterisksounds.org/it/sounds; for i in $(seq 1 100); do wget https://www.asterisksounds.org/it/sounds?page=$i -O $i ; done
+# nethvoice-sound
+This repository contains the instruction to build and release custom Italian and English voices for NethVoice
 
-# put all text messages in a file
-grep -h '<div class="text-right">        <a href="/it/sounds\|<p class="lead">[[:blank:]]*.*[[:blank:]]*</p>\|class="glyphicon glyphicon-bookmark" aria-hidden="true"></span> ' [0-9]*  | sed 's/<div>        <span class="glyphicon glyphicon-bookmark" aria-hidden="true"><\/span>\([^<]*\)<\/div>/\1%%%/' | sed 's/<div class="text-right">        <a href="[^"]*">\([^<]*\)<\/a>  <\/div>      <\/div>/\1|/' | sed 's/<p class="lead"> *\(.*\)<\/p>/\1|/' | sed "s/&#039;/'/g" | sed ':a;N;$!ba;s/\n/ /g' | sed 's/%%%/\n/g' | sed 's/^ *\| *$//g' | sed 's/[\t ]*|\||[\t ]*/|/g' > text
 
-# get audio files
-# jq is required
-dnf install -y jq
-
-# get all files
-./get_audio_from_google
-
-# get one file
-./get_audio_from_google filename
-
-# When you have all files, you can create the release .zip
-./create_zip

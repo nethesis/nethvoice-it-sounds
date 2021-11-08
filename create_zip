@@ -1,7 +1,9 @@
 #!/bin/bash
 
-for dir in core extra ; do
-    cd $dir
-    zip -r ../asterisk-sounds-$dir-$(cat .language)-$(cat .version-$dir).zip ./
-    cd ..
+for lang in en it ; do
+    for dir in core extra ; do
+        cd $lang/$dir
+        zip -r ../../asterisk-sounds-$dir-$lang-$(cat .version).zip ./ --exclude .version
+        cd ../..
+    done
 done
